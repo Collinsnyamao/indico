@@ -1,0 +1,3 @@
+[indico.plugins]
+search = indico_search.plugin:SearchPlugin
+

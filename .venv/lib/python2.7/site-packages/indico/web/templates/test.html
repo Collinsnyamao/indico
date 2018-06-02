@@ -1,0 +1,23 @@
+{% extends 'layout/base.html' %}
+
+{% from 'forms/_form.html' import simple_form %}
+{% from 'message_box.html' import message_box %}
+
+{% block title %}Test{% endblock %}
+
+{% block content %}
+    {{ simple_form(form, back_button=false, disabled_until_change=false) }}
+
+    <pre class="code" id="output"><code>
+    {{- data -}}
+    </code></pre>
+    <p>
+        <button class="i-button highlight big"
+                data-href="/test/?dialog=1"
+                data-title="Test"
+                data-update="#output"
+                data-ajax-dialog>
+            Open Dialog
+        </button>
+    </p>
+{% endblock %}

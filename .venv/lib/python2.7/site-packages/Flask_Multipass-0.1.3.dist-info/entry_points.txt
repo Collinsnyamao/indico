@@ -1,0 +1,12 @@
+[flask_multipass.auth_providers]
+ldap = flask_multipass.providers.ldap:LDAPAuthProvider
+oauth = flask_multipass.providers.oauth:OAuthAuthProvider
+shibboleth = flask_multipass.providers.shibboleth:ShibbolethAuthProvider
+static = flask_multipass.providers.static:StaticAuthProvider
+
+[flask_multipass.identity_providers]
+ldap = flask_multipass.providers.ldap:LDAPIdentityProvider
+oauth = flask_multipass.providers.oauth:OAuthIdentityProvider
+shibboleth = flask_multipass.providers.shibboleth:ShibbolethIdentityProvider
+static = flask_multipass.providers.static:StaticIdentityProvider
+

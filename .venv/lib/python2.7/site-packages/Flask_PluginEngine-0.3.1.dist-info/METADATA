@@ -1,0 +1,22 @@
+Metadata-Version: 2.0
+Name: Flask-PluginEngine
+Version: 0.3.1
+Summary: UNKNOWN
+Home-page: https://github.com/indico/flask-pluginengine
+Author: Indico Team
+Author-email: indico-team@cern.ch
+License: BSD
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Requires-Dist: Flask (>=0.11)
+Requires-Dist: Jinja2 (!=2.9.5,>=2.8)
+Requires-Dist: blinker
+
+UNKNOWN
+
+

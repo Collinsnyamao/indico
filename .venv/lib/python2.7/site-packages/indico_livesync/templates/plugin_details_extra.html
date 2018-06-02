@@ -1,0 +1,121 @@
+{% from 'message_box.html' import message_box %}
+
+{% macro add_agent_link(name, backend, standalone=false) %}
+    <a href="#"
+       class="{{ 'i-button icon-plus' if standalone }}"
+       data-href="{{ url_for_plugin('livesync.add_agent', backend=name) }}"
+       data-title="{% trans backend=backend.title %}Add {{ backend }} agent{% endtrans %}"
+       data-reload-after
+       data-ajax-dialog>
+        {% if standalone %}
+            {% trans backend=backend.title %}Add {{ backend }} agent{% endtrans %}
+        {% else %}
+            {{ backend.title }}
+        {% endif %}
+    </a>
+{% endmacro %}
+
+<h2>{% trans %}LiveSync Agents{% endtrans %}</h2>
+
+<div class="i-form">
+    {% if agents %}
+        <table class="i-table-widget">
+            <thead>
+                <tr>
+                    <th class="small-column">{% trans %}ID{% endtrans %}</th>
+                    <th>{% trans %}Name{% endtrans %}</th>
+                    <th>{% trans %}Backend{% endtrans %}</th>
+                    <th>{% trans %}Last Run{% endtrans %}</th>
+                    <th class="small-column">{% trans %}Initial Export{% endtrans %}</th>
+                    <th class="small-column">{% trans %}Queue{% endtrans %}</th>
+                    <th class="action-column">{% trans %}Actions{% endtrans %}</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for agent in agents %}
+                    <tr>
+                        <td class="text-right">{{ agent.id }}</td>
+                        <td>{{ agent.name }}</td>
+                        <td>
+                            {% if agent.backend %}
+                                {{ agent.backend.title }}
+                            {% else %}
+                                <em class="text-error">{% trans name=agent.backend_name %}Not loaded: {{ name }}{% endtrans %}</em>
+                            {% endif %}
+                        </td>
+                        <td>
+                            {%- if agent.last_run -%}
+                                {{ agent.last_run | format_datetime('short') }}
+                            {%- else -%}
+                                {% trans %}Never{% endtrans %}
+                            {%- endif -%}
+                        </td>
+                        <td>
+                            {% if agent.initial_data_exported %}
+                                {% trans %}Done{% endtrans %}
+                            {% else %}
+                                <strong>{% trans %}Pending{% endtrans %}</strong>
+                            {% endif %}
+                        </td>
+                        <td class="text-right">{{ agent.queue.filter_by(processed=false).count() }}</td>
+                        <td>
+                            <a href="#" class="action-icon icon-remove"
+                               data-href="{{ url_for_plugin('livesync.delete_agent', agent) }}"
+                               data-method="DELETE"
+                               data-title="{% trans %}Delete this agent?{% endtrans %}"
+                               data-confirm="{% trans %}Do you really want to delete this agent and all its queue entries?{% endtrans %}"
+                               data-reload-after
+                               data-ajax></a>
+                            {%- if agent.backend -%}
+                                <a href="#" class="action-icon icon-edit"
+                                   data-href="{{ url_for_plugin('livesync.edit_agent', agent) }}"
+                                   data-title="{% trans %}Edit LiveSync agent{% endtrans %}"
+                                   data-reload-after
+                                   data-ajax-dialog></a>
+                            {%- endif -%}
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% else %}
+        {% call message_box('info') %}
+            {% trans %}No agents have been added yet.{% endtrans %}
+        {% endcall %}
+    {% endif %}
+
+    <div class="toolbar space-before">
+        {% if backends|length == 1 %}
+            {% set name, backend = backends.viewitems()|first %}
+            {{ add_agent_link(name, backend, standalone=true) }}
+        {% else %}
+            <a class="i-button icon-plus {{ 'disabled' if not backends else 'arrow js-dropdown' }}"
+               data-toggle="dropdown"
+               title="{% if not backends %}{% trans %}No backend plugins enabled{% endtrans %}{% endif %}">
+                {% trans %}Add{% endtrans %}
+            </a>
+            <ul class="dropdown">
+                {% for name, backend in backends.viewitems() | sort(attribute='1.title') %}
+                    <li>{{ add_agent_link(name, backend) }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+    </div>
+
+    {% set missing_initial_export = agents|rejectattr('initial_data_exported')|list %}
+    {% if missing_initial_export %}
+        <p>
+            {% trans -%}
+                You still need to run the initial export for some agents by executing the commands below in a shell.<br>
+                Please note that this may take a very long time if there are many events in Indico!
+            {%- endtrans %}
+        </p>
+        <pre class="code"><code>
+            {%- filter dedent %}
+                {%- for agent in missing_initial_export -%}
+                    indico livesync initial_export {{ agent.id }}
+                {% endfor -%}
+            {% endfilter -%}
+        </code></pre>
+    {% endif %}
+</div>

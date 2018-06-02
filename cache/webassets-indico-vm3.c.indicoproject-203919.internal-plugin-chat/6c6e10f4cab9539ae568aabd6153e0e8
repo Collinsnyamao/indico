@@ -1,0 +1,3 @@
+V.plugin-chat.chat-mgmt .chat-custom-server { font-weight: bold; }\u000a.plugin-chat.chat-mgmt .chatroom + .chatroom { margin-top: 1em; }\u000a.plugin-chat.chat-mgmt #chat-log-form { margin-right: 2em; float: left; }\u000a.plugin-chat.chat-mgmt #chat-log-material { display: none; float: left; }\u000a.plugin-chat.chat-mgmt #chat-log-display-container { display: none; margin-top: 2em; }\u000a.plugin-chat.chat-mgmt iframe { width: 100%; height: 600px; margin-top: 1em; display: block; border: none; }\u000a\u000a.chat-log-material-create { padding-left: 2.4em; margin: 0.5em 0; }\u000a
+p1
+.

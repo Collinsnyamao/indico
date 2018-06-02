@@ -1,0 +1,3 @@
+[indico.plugins]
+previewer_jupyter = indico_previewer_jupyter:JupyterPreviewerPlugin
+

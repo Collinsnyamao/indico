@@ -1,0 +1,10 @@
+{% extends 'layout/dialog_base.html' %}
+{% from 'forms/_form.html' import simple_form %}
+
+{% block description %}
+    {{ backend.description }}
+{% endblock %}
+
+{% block content %}
+    {{ simple_form(form, back=_('Cancel'), disabled_until_change=edit) }}
+{% endblock %}

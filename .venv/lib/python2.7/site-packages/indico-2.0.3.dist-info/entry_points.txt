@@ -1,0 +1,9 @@
+[celery.commands]
+unlock = indico.core.celery.cli:UnlockCommand
+
+[console_scripts]
+indico = indico.cli.core:cli
+
+[pytest11]
+indico = indico.testing.pytest_plugin
+

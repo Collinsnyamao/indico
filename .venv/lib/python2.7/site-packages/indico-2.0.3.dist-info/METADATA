@@ -1,0 +1,89 @@
+Metadata-Version: 2.0
+Name: indico
+Version: 2.0.3
+Summary: Indico is a full-featured conference lifecycle management and meeting/lecture scheduling tool
+Home-page: https://getindico.io
+Author: Indico Team
+Author-email: indico-team@cern.ch
+License: https://www.gnu.org/licenses/gpl-3.0.txt
+Download-URL: https://github.com/indico/indico/releases
+Description-Content-Type: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: Babel (==2.5.1)
+Requires-Dist: Mako (==1.0.7)
+Requires-Dist: MarkupSafe (==1.0)
+Requires-Dist: indico-fonts (==1.1)
+Requires-Dist: csscompressor (==0.9.4)
+Requires-Dist: icalendar (==3.11.7)
+Requires-Dist: jsmin (==2.2.2)
+Requires-Dist: lxml (==4.1.1)
+Requires-Dist: pojson (==0.7)
+Requires-Dist: pyPdf (==1.13)
+Requires-Dist: pyatom (==1.4)
+Requires-Dist: pycountry (==17.9.23)
+Requires-Dist: mock (==2.0.0)
+Requires-Dist: freezegun (==0.3.9)
+Requires-Dist: pytest (==3.2.3)
+Requires-Dist: pytest-catchlog (==1.2.2)
+Requires-Dist: pytest-cov (==2.5.1)
+Requires-Dist: pytest-localserver (==0.3.7)
+Requires-Dist: pytest-mock (==1.6.3)
+Requires-Dist: python-dateutil (==2.6.1)
+Requires-Dist: pytz
+Requires-Dist: reportlab (==3.4.0)
+Requires-Dist: simplejson (==3.12.0)
+Requires-Dist: termcolor (==1.1.0)
+Requires-Dist: webassets (==0.12.1)
+Requires-Dist: wsgiref (==0.1.2)
+Requires-Dist: zope.interface (==3.8.0)
+Requires-Dist: requests (==2.18.4)
+Requires-Dist: pyScss (==1.3.5)
+Requires-Dist: Werkzeug (==0.12.2)
+Requires-Dist: Flask (==0.12.2)
+Requires-Dist: bcrypt (==3.1.4)
+Requires-Dist: beautifulsoup4 (==4.6.0)
+Requires-Dist: Pillow (==4.3.0)
+Requires-Dist: qrcode (==5.3)
+Requires-Dist: Markdown (==2.3.1)
+Requires-Dist: bleach (==2.1.3)
+Requires-Dist: Flask-SQLAlchemy (==2.3.2)
+Requires-Dist: Flask-WTF (==0.14.2)
+Requires-Dist: Flask-BabelEx (==0.9.3)
+Requires-Dist: SQLAlchemy (==1.1.15)
+Requires-Dist: WTForms (==2.1)
+Requires-Dist: WTForms-Components (==0.10.3)
+Requires-Dist: psycopg2 (==2.7.3.2)
+Requires-Dist: redis (==2.10.6)
+Requires-Dist: hiredis (==0.2.0)
+Requires-Dist: enum34
+Requires-Dist: ipaddress
+Requires-Dist: blinker (==1.4)
+Requires-Dist: alembic (==0.9.6)
+Requires-Dist: Flask-Migrate (==2.1.1)
+Requires-Dist: Flask-PluginEngine (==0.3.1)
+Requires-Dist: Flask-Multipass (==0.1.3)
+Requires-Dist: click (==6.7)
+Requires-Dist: colorclass (==2.2.0)
+Requires-Dist: itsdangerous (==0.24)
+Requires-Dist: celery (==4.1.0)
+Requires-Dist: PyYAML (==3.12)
+Requires-Dist: terminaltables (==3.1.0)
+Requires-Dist: contextlib2 (==0.5.5)
+Requires-Dist: Flask-OAuthlib (==0.9.4)
+Requires-Dist: translitcodec
+Requires-Dist: certifi
+Requires-Dist: Jinja2 (==2.9.6)
+Requires-Dist: xlsxwriter (==1.0.2)
+Requires-Dist: jsonschema (==2.6.0)
+Requires-Dist: html2text (==2017.10.4)
+Requires-Dist: marshmallow (==2.14.0)
+Requires-Dist: marshmallow-sqlalchemy (==0.13.2)
+Requires-Dist: marshmallow-enum (==1.4.1)
+Requires-Dist: flask-marshmallow (==0.8.0)
+Requires-Dist: ipython (<6,>=5.4.1)
+Requires-Dist: prompt-toolkit (<2.0.0,>=1.0.14)
+Requires-Dist: packaging (<17,>=16.8)
+
+Indico allows you to schedule conferences, from single talks to complex meetings with sessions and contributions. It also includes an advanced user delegation mechanism, allows paper reviewing, archival of conference information and electronic proceedings
+
+

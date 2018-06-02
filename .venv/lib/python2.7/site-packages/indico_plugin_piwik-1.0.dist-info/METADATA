@@ -1,0 +1,19 @@
+Metadata-Version: 2.0
+Name: indico-plugin-piwik
+Version: 1.0
+Summary: Piwik integration for global and event-specific statistics in Indico
+Home-page: https://github.com/indico/indico-plugins
+Author: Indico Team
+Author-email: indico-team@cern.ch
+License: https://www.gnu.org/licenses/gpl-3.0.txt
+Description-Content-Type: UNKNOWN
+Platform: UNKNOWN
+Classifier: Environment :: Plugins
+Classifier: Environment :: Web Environment
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python :: 2.7
+Requires-Dist: indico (>=2.0)
+
+UNKNOWN
+
+

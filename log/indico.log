@@ -1,0 +1,1093 @@
+2018-05-12 21:19:31,502  INFO     3e0062b0fbe84b50  indico.rh                 GET /bootstrap [IP=154.70.35.252] [PID=12053] [UID=None]
+2018-05-12 21:19:41,750  INFO     8cf650b62b714f6b  indico.rh                 GET /bootstrap [IP=154.70.35.252] [PID=12055] [UID=None]
+2018-05-12 21:20:06,279  INFO     e8b46f61b0c64250  indico.rh                 GET /bootstrap [IP=154.70.35.252] [PID=12053] [UID=None]
+2018-05-12 21:21:43,448  INFO     da139cfadaf54057  indico.rh                 POST /bootstrap [IP=154.70.35.252] [PID=12055] [UID=None]
+2018-05-12 21:21:44,144  INFO     f6196d01643645f1  indico.rh                 GET / [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:21:56,321  INFO     311f018e72654549  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=12050] [UID=1]
+2018-05-12 21:21:57,984  INFO     d76134311bf9473a  indico.rh                 GET /admin/version-check?_=1526160116986 [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:21:59,125  INFO     33642b9e68e14e30  indico.rh                 GET /admin/version-check?_=1526160116986 [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:23:04,611  INFO     36375b6c07fa4958  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=12050] [UID=1]
+2018-05-12 21:23:05,331  INFO     b2b6f97bccdb4dcb  indico.rh                 GET /admin/version-check?_=1526160184823 [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:23:12,937  INFO     ef774e0b5a0642bf  indico.rh                 GET /admin/users/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:23:28,505  INFO     e07462f5c1fe4e3c  indico.rh                 GET /admin/admins [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:25:59,222  INFO     2c7520527622484b  indico.rh                 POST /change-timezone [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:25:59,648  INFO     35a36a2c65834305  indico.rh                 GET /admin/admins [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:26:14,870  INFO     c00b90cb3ed24c4b  indico.rh                 POST /change-timezone [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:26:15,157  INFO     5bc4c9f7feef41b9  indico.rh                 GET /admin/admins [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:26:32,991  INFO     1e70812b7bca4ec2  indico.rh                 POST /change-timezone [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:26:33,281  INFO     94a6eb99cbab4c69  indico.rh                 GET /admin/admins [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:26:46,918  INFO     f969e14181644505  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:26:47,666  INFO     e24fa1672b53404a  indico.rh                 GET /admin/version-check?_=1526160407142 [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:26:59,327  INFO     fe5ca72ee0674dc1  indico.rh                 GET / [IP=154.70.35.252] [PID=12055] [UID=None]
+2018-05-12 21:29:35,366  INFO     5a0bcfdaaed34d97  indico.rh                 GET /login/ [IP=154.70.35.252] [PID=12055] [UID=None]
+2018-05-12 21:29:50,481  INFO     e0a0dcff30074ae4  indico.rh                 GET /register/ [IP=154.70.35.252] [PID=12055] [UID=None]
+2018-05-12 21:30:03,925  INFO     6097cd1def524d33  indico.rh                 POST /register/ [IP=154.70.35.252] [PID=12055] [UID=None]
+2018-05-12 21:30:04,227  INFO     bced1baf81204813  indico.rh                 GET /register/ [IP=154.70.35.252] [PID=12053] [UID=None]
+2018-05-12 21:30:04,755  INFO     0000000000000000  indico.emails             Sent email "[Indico] Verify your email"
+2018-05-12 21:30:30,801  INFO     69c171f9e8254d76  indico.rh                 GET /register/?token=Im55YW1hb2NvbGxpbnNAZ21haWwuY29tIg.DdjuWw.zl84nn2Irh43tjShj-cVEyzYBAo [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:30:31,179  INFO     dcf8924bb851486e  indico.rh                 GET / [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:31:30,948  INFO     352af482561544c1  indico.rh                 GET /register/?token=Im55YW1hb2NvbGxpbnNAZ21haWwuY29tIg.DdjuWw.zl84nn2Irh43tjShj-cVEyzYBAo [IP=154.70.35.252] [PID=12055] [UID=None]
+2018-05-12 21:31:31,196  INFO     190a1a7ca3ff42a2  indico.rh                 GET /register/ [IP=154.70.35.252] [PID=12053] [UID=None]
+2018-05-12 21:31:41,051  INFO     f07a166740524f42  indico.rh                 GET /register/?token=Im55YW1hb2NvbGxpbnNAZ21haWwuY29tIg.DdjuWw.zl84nn2Irh43tjShj-cVEyzYBAo [IP=154.70.35.252] [PID=12055] [UID=None]
+2018-05-12 21:31:41,302  INFO     616a51cfc6b04c85  indico.rh                 GET /register/ [IP=154.70.35.252] [PID=12053] [UID=None]
+2018-05-12 21:32:22,178  INFO     b81d433ae105475a  indico.rh                 POST /register/ [IP=154.70.35.252] [PID=12055] [UID=None]
+2018-05-12 21:32:22,979  INFO     b16de0b88c31476e  indico.rh                 GET / [IP=154.70.35.252] [PID=12053] [UID=2]
+2018-05-12 21:32:48,166  INFO     85c9ebab61c6480c  indico.rh                 POST /change-timezone [IP=154.70.35.252] [PID=12055] [UID=2]
+2018-05-12 21:32:48,557  INFO     1ec988739bb045ab  indico.rh                 GET / [IP=154.70.35.252] [PID=12050] [UID=2]
+2018-05-12 21:33:55,710  INFO     2b82020dc9694c30  indico.rh                 GET /event/create/lecture?category_id=0&_=1526160631841 [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:33:56,661  INFO     f336f93ed95b4056  indico.rh                 GET /category/0/info [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:34:11,675  INFO     ed8c6ef7452d43ae  indico.rh                 GET /rooms/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:34:11,931  INFO     a179849a13534369  indico.rh                 GET /rooms/book [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:34:13,977  INFO     09bc4e80e35a45b7  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/rooms/book', u'params': {u'start_date': u'2018-05-13', u'end_date': u'2018-05-13'}, u'method': u'roomBooking.getDateWarning'}
+2018-05-12 21:34:55,653  INFO     03bc859bf6d94e2a  indico.rh                 GET /rooms/bookings/search/mine/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:35:03,639  INFO     fd18c333815247dc  indico.rh                 GET /user/dashboard/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:35:30,492  INFO     9881bae3ba3945d5  indico.rh                 GET /user/dashboard/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:35:36,402  INFO     00715a7d1bee44db  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:35:38,135  INFO     8877cb149d9c41f3  indico.rh                 GET /admin/version-check?_=1526160937616 [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:38:08,341  INFO     fc07f97b3c414a84  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:38:18,016  INFO     5568d4ac893f40e0  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:38:18,735  INFO     042b8fe677e64846  indico.rh                 GET /admin/version-check?_=1526161098219 [IP=154.70.35.252] [PID=12053] [UID=1]
+2018-05-12 21:38:31,213  INFO     8c9fc783643d4dff  indico.rh                 GET /admin/apps/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:38:37,489  INFO     4e0e77cb7ce04252  indico.rh                 GET /admin/tasks/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 21:38:44,750  INFO     f111db1c6e394b38  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=12049] [UID=1]
+2018-05-12 21:38:45,558  INFO     ec2b434ad22f4cf2  indico.rh                 GET /admin/version-check?_=1526161125354 [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 22:15:44,084  INFO     23596d5fcda64a9b  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 22:15:44,920  INFO     1eb6d53894064cc3  indico.rh                 GET /admin/version-check?_=1526163344462 [IP=154.70.35.252] [PID=12055] [UID=1]
+2018-05-12 22:16:35,477  INFO     c60cdc7b45bc453c  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=24911] [UID=1]
+2018-05-12 22:16:37,259  INFO     9c9c26dae4984873  indico.rh                 GET /admin/version-check?_=1526163396608 [IP=154.70.35.252] [PID=24912] [UID=1]
+2018-05-12 22:17:34,754  INFO     6fd92c5eb85b4757  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=24917] [UID=1]
+2018-05-12 22:20:45,440  INFO     088efeab540049ad  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=24917] [UID=1]
+2018-05-12 22:35:30,689  INFO     4aa81da699704c01  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=25172] [UID=1]
+2018-05-12 22:35:33,938  INFO     61a9cd549fdf4fc3  indico.rh                 GET /admin/plugins/livesync/ [IP=154.70.35.252] [PID=25170] [UID=1]
+2018-05-12 22:35:54,505  INFO     0dbf2dae916b4634  indico.rh                 POST /admin/plugins/livesync/ [IP=154.70.35.252] [PID=25172] [UID=1]
+2018-05-12 22:35:54,782  INFO     b40cfc12d64945b9  indico.rh                 GET /admin/plugins/livesync/ [IP=154.70.35.252] [PID=25170] [UID=1]
+2018-05-12 22:35:59,054  INFO     a5b2c015b2c94842  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=25172] [UID=1]
+2018-05-12 22:36:06,418  INFO     7eb2eadd467d45ed  indico.rh                 GET /admin/plugins/livesync/ [IP=154.70.35.252] [PID=25172] [UID=1]
+2018-05-12 22:36:09,320  INFO     ba842cec915d4a6a  indico.rh                 POST /admin/plugins/livesync/ [IP=154.70.35.252] [PID=25172] [UID=1]
+2018-05-12 22:36:09,582  INFO     81849f0e4b794899  indico.rh                 GET /admin/plugins/livesync/ [IP=154.70.35.252] [PID=25170] [UID=1]
+2018-05-12 22:36:12,029  INFO     091be98c6abb4cf2  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=25170] [UID=1]
+2018-05-12 22:39:02,454  INFO     f83b9027393d40f5  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=25265] [UID=1]
+2018-05-12 22:40:41,368  INFO     3ca1e68f0fa94aa8  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=25306] [UID=1]
+2018-05-12 22:40:45,336  INFO     3f78507dbbfb4c12  indico.rh                 GET /admin/plugins/chat/ [IP=154.70.35.252] [PID=25304] [UID=1]
+2018-05-12 22:41:58,677  INFO     d4c153d294564d3b  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/admin/plugins/chat/', u'params': {u'organisation': u'', u'surName': u'Nyamao', u'name': u'collins', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-12 22:44:42,415  INFO     472c4acebadc4f39  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:44:46,640  INFO     48b3db50e3d1445f  indico.rh                 GET /admin/plugins/payment_manual/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:46:52,575  INFO     e219314268574c33  indico.rh                 POST /admin/plugins/payment_manual/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:46:52,877  INFO     463b645b2abe4335  indico.rh                 GET /admin/plugins/payment_manual/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:46:59,854  INFO     8b4eb658dc934c8f  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=25344] [UID=1]
+2018-05-12 22:47:07,406  INFO     f367f1d64f3d4a6f  indico.rh                 GET /admin/plugins/payment_paypal/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:47:17,886  INFO     3f3be6900982491c  indico.rh                 POST /admin/plugins/payment_paypal/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:47:18,150  INFO     d841c287722d4a89  indico.rh                 GET /admin/plugins/payment_paypal/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:47:25,442  INFO     2e572bb8f9d34895  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:47:45,193  INFO     6e55475eb0364cfb  indico.rh                 GET /category/0/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:48:07,929  INFO     1dc3703527674dc4  indico.rh                 GET /category/0/manage/attachments/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:48:21,658  INFO     8a8cedcf0c2d4cfb  indico.rh                 GET /category/0/manage/attachments/add/files?_=1526165288217 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:48:43,579  INFO     06cba6389e2541e9  indico.rh                 POST /category/0/manage/attachments/add/files [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:48:46,208  INFO     06cba6389e2541e9  indico.attachments        Attachment <Attachment(1, Patahapa_movie_ticket.pdf, <AttachmentFile(1, 1, Patahapa_movie_ticket.pdf, application/pdf)>, protection_mode=inheriting, 1)> uploaded by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-12 22:48:54,008  INFO     43df3a50735042cd  indico.rh                 GET /category/0/manage/attachments/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:48:58,378  INFO     75892bc3a0fc4328  indico.rh                 GET /category/0/manage/settings [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:51:57,104  INFO     0d5087fe623b4de8  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:51:57,865  INFO     6a92703f500d4bae  indico.rh                 GET /admin/version-check?_=1526165517356 [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:52:06,519  INFO     2e646eece64a4a3f  indico.rh                 GET /admin/payment/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:52:37,543  INFO     9c5144b9edf04b76  indico.rh                 GET /admin/payment/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:53:18,314  INFO     a9e525e977174385  indico.rh                 POST /admin/payment/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:53:18,627  INFO     c92cd5f38ffa4f40  indico.rh                 GET /admin/payment/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:53:31,728  INFO     3a0fae06445a48fd  indico.rh                 GET /admin/payment/payment_manual/?_=1526165598922 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:53:40,149  INFO     10ba411c2cd94757  indico.rh                 POST /admin/payment/payment_manual/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:53:41,712  INFO     68b6bf9de2ab424c  indico.rh                 GET /admin/payment/payment_paypal/?_=1526165598923 [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:53:52,384  INFO     6baf1b3eebf6406d  indico.rh                 POST /admin/payment/payment_paypal/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:54:08,221  INFO     a5b09c6c392e4d67  indico.rh                 GET /admin/users/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:54:17,252  INFO     d9ec8414badd4bd3  indico.rh                 GET /admin/users/create/?_=1526165648642 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:55:12,067  INFO     50307cf3a8404532  indico.rh                 POST /admin/users/create/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:55:31,095  INFO     7b4fa224bc344668  indico.rh                 GET /user/3/profile/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:55:53,247  INFO     3581439cee5b4fea  indico.rh                 GET /user/3/emails/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:56:18,652  INFO     b1b637591de9477d  indico.rh                 GET /rooms/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:56:18,934  INFO     17974f9941094e2a  indico.rh                 GET /rooms/book [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:56:20,563  INFO     a84093c4ce484bd7  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/rooms/book', u'params': {u'start_date': u'2018-05-13', u'end_date': u'2018-05-13'}, u'method': u'roomBooking.getDateWarning'}
+2018-05-12 22:56:30,278  INFO     f8e6fbc4f0be4f8f  indico.rh                 GET /event/create/lecture?_=1526165779265 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:56:31,549  INFO     7d2cd8c639774f0d  indico.rh                 GET /category/0/info [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:56:47,635  INFO     faaebee29f2d4d29  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:57:18,508  INFO     4d9bbb0bb8684b8e  indico.rh                 GET /event/create/conference?category_id=0&_=1526165807950 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:57:19,436  INFO     9b60a5b3e7564d41  indico.rh                 GET /category/0/info [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:57:26,415  INFO     d7f86a4903e442bb  indico.rh                 GET /event/create/lecture?category_id=0&_=1526165807951 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:57:27,499  INFO     c8a9659ea7a74f39  indico.rh                 GET /category/0/info [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:57:57,213  INFO     cbd0f42bf95e42fa  indico.rh                 POST /event/create/lecture [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:57:57,297  INFO     cbd0f42bf95e42fa  indico.events             Event <Event(1, 2018-05-13 06:00:00+00:00, 2018-05-13 08:00:00+00:00): "testlecture"> created in <Category(0): "Home"> by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi"> 
+2018-05-12 22:57:57,692  INFO     6ed7decdbf7d47f3  indico.rh                 GET /event/1/manage/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 22:58:19,768  INFO     bc8a308ca06b4a93  indico.rh                 GET /event/1/manage/attachments/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:58:27,652  INFO     97715cc5d1ee4d5f  indico.rh                 GET /event/1/manage/protection [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:58:36,135  INFO     f1634291193e463b  indico.rh                 GET /event/1/manage/participants/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:58:49,061  INFO     313978730adf4000  indico.rh                 GET /event/1/manage/chat/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:58:57,678  INFO     7f555a73b9f24ca4  indico.rh                 GET /event/1/manage/chat/create?_=1526165930697 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:59:01,825  INFO     37741e851e304400  indico.rh                 POST /event/1/manage/chat/create [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 22:59:10,148  INFO     63e9381b37274d7c  indico.rh                 POST /event/1/manage/chat/create [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:02:32,654  INFO     7a96aa9886f0492a  indico.rh                 GET /event/1/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:04:26,873  INFO     ec8616b50e314d7b  indico.rh                 GET /event/1/manage/attachments/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:04:30,703  INFO     5d39bbb7eade4bfd  indico.rh                 GET /event/1/manage/participants/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:04:34,123  INFO     39b26c16c55f4279  indico.rh                 GET /event/1/manage/reminders/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:04:37,620  INFO     3672296a1ca3422e  indico.rh                 GET /event/1/manage/reminders/add?_=1526166274490 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:04:59,235  INFO     212f5aa1933a4bf8  indico.rh                 GET /event/create/conference?category_id=0&_=1526166274491 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:05:00,202  INFO     6366c9088b8d428c  indico.rh                 GET /category/0/info [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:05:13,119  INFO     3af7a43b82884cc4  indico.rh                 POST /event/create/conference [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:05:13,180  INFO     3af7a43b82884cc4  indico.events             Event <Event(2, 2018-05-13 00:00:00+00:00, 2018-05-13 02:00:00+00:00): "tstconf"> created in <Category(0): "Home"> by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi"> 
+2018-05-12 23:05:13,560  INFO     3fc43f3b890449bb  indico.rh                 GET /event/2/manage/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 23:05:20,430  INFO     427e0ddbb92049f2  indico.rh                 GET /event/2/manage/papers/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:05:35,282  INFO     30ec9ce94b854d86  indico.rh                 PUT /event/2/manage/features/papers [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:05:35,300  INFO     30ec9ce94b854d86  indico.events.features    Feature 'papers' for event <Event(2, 2018-05-13 00:00:00+00:00, 2018-05-13 02:00:00+00:00): "tstconf"> enabled by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-12 23:05:35,622  INFO     c300e551009b470d  indico.rh                 GET /event/2/manage/papers/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 23:08:26,800  INFO     e6472a0ac85a4cc0  indico.rh                 GET /event/2/manage/papers/assignment-list/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:11:46,169  INFO     e960a9b6e9c541a1  indico.rh                 GET /event/2/manage/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:11:50,775  INFO     56401b472a68462b  indico.rh                 GET /event/2/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:11:51,110  INFO     d5bb15faf5e94145  indico.rh                 GET /event/2/manage/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 23:11:51,456  INFO     d8e39968761c4abf  indico.rh                 GET /event/2/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:12:09,151  INFO     bbb59284fc38415c  indico.rh                 GET /bootstrap [IP=154.70.35.252] [PID=25349] [UID=2]
+2018-05-12 23:12:09,494  INFO     34b51401352342cb  indico.rh                 GET / [IP=154.70.35.252] [PID=25348] [UID=2]
+2018-05-12 23:12:39,734  INFO     a265d69c66ed42b6  indico.rh                 GET /event/2/ [IP=154.70.35.252] [PID=25349] [UID=2]
+2018-05-12 23:12:57,858  INFO     641b12e4dbd24393  indico.rh                 GET /event/2/timetable/ [IP=154.70.35.252] [PID=25349] [UID=2]
+2018-05-12 23:13:11,263  INFO     4bfd31cfd1df4261  indico.rh                 GET /event/2/registrations/participants [IP=154.70.35.252] [PID=25349] [UID=2]
+2018-05-12 23:13:31,565  INFO     af4b17dbd7ee4c25  indico.rh                 GET /event/2/overview [IP=154.70.35.252] [PID=25349] [UID=2]
+2018-05-12 23:13:53,461  INFO     8252891e7fb94b82  indico.rh                 GET /event/2/manage/papers/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:13:56,887  INFO     f934bd2e85a948c6  indico.rh                 POST /event/2/manage/papers/open [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:13:56,901  INFO     f934bd2e85a948c6  indico.events.papers      Call for papers for <Event(2, 2018-05-13 00:00:00+00:00, 2018-05-13 02:00:00+00:00): "tstconf"> opened by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-12 23:14:03,749  INFO     bcd08d189bc9472b  indico.rh                 GET /event/2/overview [IP=154.70.35.252] [PID=25349] [UID=2]
+2018-05-12 23:14:32,411  INFO     7f9f0eaf91b14c6d  indico.rh                 GET /event/2/timetable/?view=standard [IP=154.70.35.252] [PID=25349] [UID=2]
+2018-05-12 23:14:56,549  INFO     8d7740c1289347e2  indico.rh                 GET /logout/?next=%2Fevent%2F2%2Ftimetable%2F%3Fview%3Dstandard [IP=154.70.35.252] [PID=25349] [UID=2]
+2018-05-12 23:14:56,949  INFO     010397853eed4cad  indico.rh                 GET /event/2/timetable/?view=standard [IP=154.70.35.252] [PID=25348] [UID=None]
+2018-05-12 23:15:39,942  INFO     db9423a66b264e28  indico.rh                 GET /login/?next=%2Fevent%2F2%2Ftimetable%2F%3Fview%3Dstandard [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:15:51,747  INFO     1ebbc7e658334308  indico.rh                 GET /register/?next=%2Fevent%2F2%2Ftimetable%2F%3Fview%3Dstandard [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:16:10,914  INFO     5e103ab7f5884f10  indico.rh                 POST /register/?next=%2Fevent%2F2%2Ftimetable%2F%3Fview%3Dstandard [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:16:31,938  INFO     6687a2e3aaaa49d2  indico.rh                 GET /logout/ [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:16:32,201  INFO     3cc7230ad50549aa  indico.rh                 GET / [IP=154.70.35.252] [PID=25348] [UID=None]
+2018-05-12 23:16:46,625  INFO     de2e5b9f98444956  indico.rh                 GET /login/ [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:17:19,177  INFO     6ab3326b43bc4f5c  indico.rh                 POST /login/ [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:17:19,189  WARNING  6ab3326b43bc4f5c  indico.auth               Invalid credentials (ip=154.70.35.252, provider=indico): No such user
+2018-05-12 23:17:32,132  INFO     e8d050a203584c67  indico.rh                 GET /register/ [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:17:50,506  INFO     d8c2c298e96a4e4e  indico.rh                 POST /register/ [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:17:50,902  INFO     cac6efb70fff4c11  indico.rh                 GET /register/ [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:17:51,614  INFO     0000000000000000  indico.emails             Sent email "[Indico] Verify your email"
+2018-05-12 23:18:36,692  INFO     efd33653f121471c  indico.rh                 GET /register/?token=ImNvbGxpbnNueWFtYW9AZ21haWwuY29tIg.DdkHng.POB8pvlL5dE0Xx-JxvKQv6VcVDI [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:18:36,952  INFO     5fe6f8f549cb4df4  indico.rh                 GET /register/ [IP=154.70.35.252] [PID=25348] [UID=None]
+2018-05-12 23:19:44,253  INFO     a82d328db12045c0  indico.rh                 POST /register/ [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-12 23:19:45,000  INFO     021ed6db67f04e4d  indico.rh                 GET / [IP=154.70.35.252] [PID=25348] [UID=4]
+2018-05-12 23:20:26,713  INFO     8a6d1bfd808c42d7  indico.rh                 GET /event/1/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-12 23:20:50,131  INFO     108136d71aea450b  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-12 23:20:59,833  INFO     ee83f49a38e54cbf  indico.rh                 GET /event/2/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-12 23:21:19,263  INFO     7f21298fbcd04729  indico.rh                 GET /event/2/registrations/participants [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-12 23:21:33,538  INFO     50818422e0c34fdc  indico.rh                 GET /event/2/timetable/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-12 23:22:30,469  INFO     18ab18e42ebd4091  indico.rh                 GET /event/2/manage/protection [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:23:59,043  INFO     539c6204f5134a7a  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/2/manage/protection', u'params': {u'organisation': u'', u'surName': u'', u'name': u'collins', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-12 23:24:07,790  INFO     eb07bf4b52aa46cb  indico.rh                 POST /event/2/manage/protection [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:24:07,847  INFO     eb07bf4b52aa46cb  indico.events             Protection of event <Event(2, 2018-05-13 00:00:00+00:00, 2018-05-13 02:00:00+00:00): "tstconf"> updated with {u'access_key': u'', u'protection_mode': <ProtectionMode.public: 0>, u'visibility': None, u'own_no_access_contact': u''} by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-12 23:24:07,861  INFO     eb07bf4b52aa46cb  indico.events.sessions    Session coordinator privs of event <Event(2, 2018-05-13 00:00:00+00:00, 2018-05-13 02:00:00+00:00): "tstconf"> updated with {u'manage-contributions': False, u'manage-blocks': False} by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-12 23:24:08,128  INFO     59f7a9df7efd4356  indico.rh                 GET /event/2/manage/protection [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 23:24:15,544  INFO     1f676b7a9288400d  indico.rh                 GET /event/2/overview [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-12 23:24:34,651  INFO     aca2e5ae838748bf  indico.rh                 GET /event/2/manage/attachments/?_=1526167455880 [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-12 23:24:36,914  INFO     c7831d3edf6e4bd4  indico.rh                 GET /event/2/manage/attachments/add/files?_=1526167455881 [IP=154.70.35.252] [PID=25344] [UID=4]
+2018-05-12 23:25:01,825  INFO     82d8f50032454d8b  indico.rh                 POST /event/2/manage/attachments/add/files [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-12 23:25:03,095  INFO     82d8f50032454d8b  indico.attachments        Attachment <Attachment(2, marking guide.doc, <AttachmentFile(2, 2, marking_guide.doc, application/msword)>, protection_mode=inheriting, 2)> uploaded by <User(4, collinsnyamao@gmail.com): "collins nyamao">
+2018-05-12 23:25:10,723  INFO     0171a20cc0c34052  indico.rh                 GET /event/2/overview [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-12 23:25:19,969  INFO     c07be60a384945ac  indico.rh                 GET /event/2/manage/papers/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:25:26,403  INFO     3bced8ce6a7c43f6  indico.rh                 GET /event/2/manage/contributions/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:25:33,883  INFO     733178da23374042  indico.rh                 GET /event/2/manage/papers/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-12 23:25:53,216  INFO     9da8b296c1a2420a  indico.rh                 POST /event/2/manage/papers/close [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:25:53,227  INFO     9da8b296c1a2420a  indico.events.papers      Call for papers for <Event(2, 2018-05-13 00:00:00+00:00, 2018-05-13 02:00:00+00:00): "tstconf"> closed by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-12 23:26:03,031  INFO     0aa8039cf10c4a4d  indico.rh                 GET /event/2/manage/papers/deadlines/content_reviewer?_=1526167534146 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:26:13,225  INFO     063c41ec8f9748ab  indico.rh                 GET /event/2/manage/papers/assignment-list/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:26:20,975  INFO     0b415a8fa0604c0d  indico.rh                 GET /event/2/manage/attachments/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:26:31,266  INFO     e9baaf1889cd43ed  indico.rh                 GET /event/2/manage/attachments/2/2/?_=1526167581214 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:26:40,988  INFO     f865406f01c843aa  indico.rh                 GET /event/2/manage/papers/ [IP=154.70.35.252] [PID=25344] [UID=1]
+2018-05-12 23:26:57,328  INFO     bd7410d81a5049c2  indico.rh                 GET /event/2/manage/papers/teams/?_=1526167601357 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:27:23,077  INFO     f48041d93d08423e  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/2/manage/papers/', u'params': {u'organisation': u'', u'surName': u'nyamao', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-12 23:27:36,752  INFO     f2e2ec1f229a4d8e  indico.rh                 POST /event/2/manage/papers/teams/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:27:36,778  INFO     f2e2ec1f229a4d8e  indico.events.papers      Paper teams of <Event(2, 2018-05-13 00:00:00+00:00, 2018-05-13 02:00:00+00:00): "tstconf"> updated by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-12 23:27:39,316  INFO     455f4881aab5409f  indico.rh                 GET /event/2/manage/papers/assignment-list/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:27:42,734  INFO     558bf1081ec2416b  indico.rh                 GET /event/2/manage/papers/assignment-list/customize?_=1526167659570 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:27:55,508  INFO     1e36ce5565fa49d0  indico.rh                 GET /event/2/manage/papers/ [IP=154.70.35.252] [PID=25344] [UID=1]
+2018-05-12 23:27:56,372  INFO     71e5ed06d3754d14  indico.rh                 GET /event/2/manage/papers/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:28:02,942  INFO     0a9d580763df4084  indico.rh                 POST /event/2/manage/papers/open [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:28:02,960  INFO     0a9d580763df4084  indico.events.papers      Call for papers for <Event(2, 2018-05-13 00:00:00+00:00, 2018-05-13 02:00:00+00:00): "tstconf"> opened by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-12 23:28:09,534  INFO     9e138392f68e4330  indico.rh                 PUT /event/2/manage/papers/enable/layout [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:28:09,552  INFO     9e138392f68e4330  indico.events.papers      Reviewing type 'layout' for event <Event(2, 2018-05-13 00:00:00+00:00, 2018-05-13 02:00:00+00:00): "tstconf"> enabled by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-12 23:28:20,167  INFO     1167ba96517b4051  indico.rh                 GET /event/2/manage/papers/teams/competences?_=1526167676607 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:28:25,855  INFO     54151265e83e421d  indico.rh                 GET /event/2/manage/papers/assignment-list/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-12 23:28:32,352  INFO     bd584c0a81b04644  indico.rh                 GET /event/2/manage/attachments/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 05:14:56,235  INFO     81076ba0dacc4cb2  indico.rh                 GET / [IP=107.170.254.94] [PID=25349] [UID=None]
+2018-05-13 07:45:37,453  INFO     088d89a5e84c4e62  indico.rh                 GET / [IP=66.249.81.222] [PID=25349] [UID=None]
+2018-05-13 13:00:50,127  INFO     ce90d4d61dd74e76  indico.rh                 GET / [IP=93.174.95.106] [PID=25349] [UID=None]
+2018-05-13 13:13:29,260  INFO     2f7cec36c3514763  indico.rh                 GET / [IP=184.105.139.68] [PID=25349] [UID=None]
+2018-05-13 15:10:41,791  INFO     fa1b4b96869d4db5  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:11:20,700  INFO     c4406f66cd4042f7  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:11:22,090  INFO     5d28beef52884d32  indico.rh                 GET /admin/version-check?_=1526224280996 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:11:22,636  INFO     6ca735c6b3ae4f48  indico.rh                 GET /admin/version-check?_=1526224280996 [IP=154.70.35.252] [PID=25344] [UID=1]
+2018-05-13 15:11:33,728  INFO     88cf4f68451e42a8  indico.rh                 GET /event/1/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:11:40,948  INFO     12bbeaca8b8c4cbd  indico.rh                 GET /event/1/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:11:52,988  INFO     2104e6f7f9a446a7  indico.rh                 GET /event/1/manage/delete?_=1526224301181 [IP=154.70.35.252] [PID=25346] [UID=1]
+2018-05-13 15:11:56,957  INFO     5b441d387abb4ae9  indico.rh                 GET /event/1/manage/delete?_=1526224301182 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:12:00,984  INFO     55635a80f25a44d3  indico.rh                 POST /event/1/manage/delete [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:12:01,048  INFO     55635a80f25a44d3  indico.events             Event <Event(1, 2018-05-13 06:00:00+00:00, 2018-05-13 08:00:00+00:00, is_deleted=True): "testlecture"> deleted [Deleted by user]
+2018-05-13 15:12:02,871  INFO     de672624433d4d8c  indico.rh                 GET /category/0/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:12:03,580  INFO     25650df7c68445d5  indico.rh                 GET /category/0/info [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:12:09,831  INFO     65c6fb05c7c34de3  indico.rh                 GET /event/2/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:12:13,308  INFO     487179918f8346bb  indico.rh                 GET /event/2/manage/delete?_=1526224330062 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:12:17,149  INFO     03d5e74c00224849  indico.rh                 POST /event/2/manage/delete [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:12:17,191  INFO     03d5e74c00224849  indico.events             Event <Event(2, 2018-05-13 00:00:00+00:00, 2018-05-13 02:00:00+00:00, is_deleted=True): "tstconf"> deleted [Deleted by user]
+2018-05-13 15:12:17,803  INFO     7c8eec0bd6fa4e66  indico.rh                 GET /category/0/manage/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:12:35,006  INFO     a412cacfb61f4f2d  indico.rh                 GET /event/create/conference?category_id=0&_=1526224338402 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:12:35,793  INFO     b1ea46075a964ccc  indico.rh                 GET /category/0/info [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:16:18,035  INFO     9f05c477fdab4f48  indico.rh                 POST /event/create/conference [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:16:18,116  INFO     9f05c477fdab4f48  indico.events             Event <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> created in <Category(0): "Home"> by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi"> 
+2018-05-13 15:16:18,660  INFO     b323473e99594186  indico.rh                 GET /event/3/manage/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:17:02,394  INFO     7a65b809d69842a1  indico.rh                 GET /event/3/manage/settings/persons?_=1526224579012 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:17:14,161  INFO     7883cbdac68047f9  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/', u'params': {u'surName': u'mwangi', u'name': u'', u'organisation': u'', u'conferenceId': 3, u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 15:17:39,089  INFO     b5b77de67fe2439e  indico.rh                 POST /event/3/manage/settings/persons [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:17:39,142  INFO     b5b77de67fe2439e  indico.events             Event <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> updated with {'person_link_data': {<EventPersonLink(1, person_id=1, event_id=3): "Sarah Mwangi">: True}} by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:18:03,086  INFO     29a7d0193107404b  indico.rh                 GET /event/3/manage/settings/data?_=1526224579013 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:19:15,450  INFO     a07ce21898174489  indico.rh                 POST /event/3/manage/settings/data [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:19:15,482  INFO     a07ce21898174489  indico.events             Event <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> updated with {'url_shortcut': None, 'description': u'<p>Looking into a test description for the future.</p>', 'title': u'TEST INNOVATIONS CONFERENCE'} by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:19:35,832  INFO     4e07dc913fad41ab  indico.rh                 GET /event/3/manage/attachments/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:20:13,711  INFO     026590d9ac074ea6  indico.rh                 GET /event/3/manage/attachments/add/files?_=1526224776087 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:20:34,990  INFO     a31cf35c1547471b  indico.rh                 POST /event/3/manage/attachments/add/files [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:20:38,102  INFO     a31cf35c1547471b  indico.attachments        Attachment <Attachment(3, PHOTO-2018-05-07-16-31-41.jpg, <AttachmentFile(3, 3, PHOTO-2018-05-07-16-31-41.jpg, image/jpeg)>, protection_mode=inheriting, 3)> uploaded by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:20:45,319  INFO     41abc9d83be34276  indico.rh                 GET /event/3/manage/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:20:57,201  INFO     e6a756da5b404439  indico.rh                 PUT /event/3/manage/features/abstracts [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:20:57,225  INFO     e6a756da5b404439  indico.events.features    Feature 'abstracts' for event <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> enabled by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:20:57,542  INFO     ee95d6560cb844e3  indico.rh                 GET /event/3/manage/abstracts/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:21:14,790  INFO     bd23f760037d4b29  indico.rh                 POST /event/3/manage/abstracts/open [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:21:14,803  INFO     bd23f760037d4b29  indico.events.abstracts   Call for abstracts for <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> opened by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:21:15,286  INFO     ced6dd883beb4d06  indico.rh                 GET /event/3/manage/abstracts/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:21:26,301  INFO     a9843cecf3914d9e  indico.rh                 GET /event/3/manage/abstracts/email-templates/?_=1526224875587 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:21:29,966  INFO     a1da8d5649f740db  indico.rh                 GET /event/3/manage/abstracts/email-templates/add?_=1526224875588 [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:21:56,498  INFO     51f8660e1b154b11  indico.rh                 POST /event/3/manage/abstracts/email-templates/add [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:22:30,584  INFO     d95427216ed14365  indico.rh                 GET /event/3/manage/abstracts/email-templates/?_=1526224875589 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:22:36,314  INFO     d24f880371164ea8  indico.rh                 GET /event/3/manage/abstracts/email-templates/add?_=1526224875590 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:23:01,580  INFO     3303bdac0b6a4e05  indico.rh                 POST /event/3/manage/abstracts/email-templates/add [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:23:04,896  INFO     547eb142d66e48c7  indico.rh                 GET /event/3/manage/abstracts/email-templates/add?_=1526224875591 [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:23:32,361  INFO     c01b5ac8906b4644  indico.rh                 POST /event/3/manage/abstracts/email-templates/add [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:23:35,959  INFO     613460adea9c4c1a  indico.rh                 GET /event/3/manage/abstracts/email-templates/add?_=1526224875592 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:23:54,019  INFO     d15a05bc98e546d2  indico.rh                 GET /event/3/manage/abstracts/email-templates/?_=1526224875593 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:24:14,229  INFO     e705ba7f742d4a81  indico.rh                 GET /event/3/book-of-abstracts.pdf [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:24:14,326  WARNING  e705ba7f742d4a81  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-13 15:24:14,335  WARNING  e705ba7f742d4a81  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-13 15:24:14,337  ERROR    e705ba7f742d4a81  indico.flask              Impossible to compile '/opt/indico/tmp/indico-texgen-jTBGvf/book_of_abstracts.tpl.tex'. Read '/opt/indico/tmp/indico-texgen-jTBGvf/output.log' for details
+Traceback (most recent call last):
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/flask/util.py", line 114, in wrapper
+    return obj().process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 270, in process
+    res = self._do_process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/controllers/base.py", line 63, in _do_process
+    return RHEventBase._do_process(self)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 249, in _do_process
+    return self._process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/controllers/boa.py", line 48, in _process
+    return send_file('book-of-abstracts.pdf', create_boa(self.event), 'application/pdf')
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/util.py", line 299, in create_boa
+    tmp_path = pdf.generate()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 683, in generate
+    pdffile = latex.run(self._tpl_filename, **self._args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 749, in run
+    raise LaTeXRuntimeException(source_filename, log_filename)
+LaTeXRuntimeException: LaTeX compilation of /opt/indico/tmp/indico-texgen-jTBGvf/book_of_abstracts.tpl.tex failed
+2018-05-13 15:24:26,638  INFO     acc7ff658c6b45cd  indico.rh                 GET /event/3/manage/abstracts/boa?_=1526224875594 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:24:32,017  INFO     f270b71c0eae4b77  indico.rh                 GET /event/3/book-of-abstracts.pdf [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:24:32,051  WARNING  f270b71c0eae4b77  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-13 15:24:32,063  WARNING  f270b71c0eae4b77  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-13 15:24:32,065  ERROR    f270b71c0eae4b77  indico.flask              Impossible to compile '/opt/indico/tmp/indico-texgen-tIipX3/book_of_abstracts.tpl.tex'. Read '/opt/indico/tmp/indico-texgen-tIipX3/output.log' for details
+Traceback (most recent call last):
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/flask/util.py", line 114, in wrapper
+    return obj().process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 270, in process
+    res = self._do_process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/controllers/base.py", line 63, in _do_process
+    return RHEventBase._do_process(self)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 249, in _do_process
+    return self._process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/controllers/boa.py", line 48, in _process
+    return send_file('book-of-abstracts.pdf', create_boa(self.event), 'application/pdf')
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/util.py", line 299, in create_boa
+    tmp_path = pdf.generate()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 683, in generate
+    pdffile = latex.run(self._tpl_filename, **self._args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 749, in run
+    raise LaTeXRuntimeException(source_filename, log_filename)
+LaTeXRuntimeException: LaTeX compilation of /opt/indico/tmp/indico-texgen-tIipX3/book_of_abstracts.tpl.tex failed
+2018-05-13 15:24:40,238  INFO     c72fc267697447ee  indico.rh                 GET /event/3/manage/papers/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:24:43,722  INFO     a5134a9019f44f2e  indico.rh                 PUT /event/3/manage/features/papers [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:24:43,743  INFO     a5134a9019f44f2e  indico.events.features    Feature 'papers' for event <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> enabled by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:24:44,252  INFO     89dafd40977442d9  indico.rh                 GET /event/3/manage/papers/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:25:04,652  INFO     b23e36c4d2e04443  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:25:13,560  INFO     8f17392245444e9a  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:25:31,002  INFO     dbd8497e68b74445  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:28:14,500  INFO     ba280a1b27374201  indico.rh                 GET / [IP=154.70.35.252] [PID=25348] [UID=4]
+2018-05-13 15:28:38,695  INFO     dad4180e2cdf4afe  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:28:51,396  INFO     631132c774954810  indico.rh                 GET /event/3/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:29:01,593  INFO     88798c06a72143c6  indico.rh                 GET /event/3/abstracts/submit?_=1526225332070 [IP=154.70.35.252] [PID=25346] [UID=4]
+2018-05-13 15:32:08,728  INFO     6e5bbaee01d14035  indico.rh                 GET / [IP=41.212.41.252] [PID=25349] [UID=None]
+2018-05-13 15:32:20,588  INFO     ac7f01846f554015  indico.rh                 POST /event/3/abstracts/submit?_=1526225332070 [IP=154.70.35.252] [PID=25348] [UID=4]
+2018-05-13 15:32:42,851  INFO     d04292c6a6244e36  indico.rh                 GET /event/3/ [IP=41.212.41.252] [PID=25349] [UID=None]
+2018-05-13 15:32:44,843  INFO     5854b8a6b8374032  indico.rh                 GET /event/3/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:33:00,261  INFO     9f9e09c9e51d4a31  indico.rh                 GET /event/3/abstracts/submit?_=1526225565210 [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:33:12,429  INFO     885d5d83b22744ca  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:33:13,275  INFO     ed9b908a59b14b2b  indico.rh                 GET /admin/version-check?_=1526225592725 [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:33:16,123  INFO     19ad73046e0f44f1  indico.rh                 GET /login/?next=%2Fevent%2F3%2Fabstracts%2F%23submit-abstract [IP=41.212.41.252] [PID=25349] [UID=None]
+2018-05-13 15:33:18,456  INFO     3ee085d0d9ef41b8  indico.rh                 GET / [IP=154.70.35.252] [PID=25344] [UID=1]
+2018-05-13 15:33:22,440  INFO     0f91ad92cb614d6f  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25346] [UID=1]
+2018-05-13 15:33:27,102  INFO     730d6970eae843cb  indico.rh                 GET /event/3/manage/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:33:31,412  INFO     21f254b60345419d  indico.rh                 GET /event/3/manage/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:33:49,181  INFO     562b1965a2cc4720  indico.rh                 GET /event/3/manage/abstracts/teams?_=1526225611701 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:33:55,833  INFO     20b8bccf74b8473b  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/abstracts/', u'params': {u'organisation': u'', u'surName': u'nyamao', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 15:34:07,330  INFO     ed43d3ba886e44a8  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/abstracts/', u'params': {u'organisation': u'', u'surName': u'mwangi', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 15:34:12,050  INFO     7adbebf5672f4b2a  indico.rh                 POST /login/?next=%2Fevent%2F3%2Fabstracts%2F%23submit-abstract [IP=41.212.41.252] [PID=25349] [UID=None]
+2018-05-13 15:34:12,069  WARNING  7adbebf5672f4b2a  indico.auth               Invalid credentials (ip=41.212.41.252, provider=indico): No such user
+2018-05-13 15:34:19,729  INFO     dbe992c9dd73434f  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/abstracts/', u'params': {u'organisation': u'', u'surName': u'nyamao', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 15:34:30,894  INFO     ad3f7538c4a44360  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/abstracts/', u'params': {u'organisation': u'', u'surName': u'mwangi', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 15:34:34,673  INFO     24af8818e7634878  indico.rh                 POST /event/3/manage/abstracts/teams [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:34:34,757  INFO     24af8818e7634878  indico.events.abstracts   Abstract reviewing roles of <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> have been updated by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:34:40,398  INFO     a0eee800fd5944b2  indico.rh                 POST /login/?next=%2Fevent%2F3%2Fabstracts%2F%23submit-abstract [IP=41.212.41.252] [PID=25349] [UID=None]
+2018-05-13 15:34:40,407  WARNING  a0eee800fd5944b2  indico.auth               Invalid credentials (ip=41.212.41.252, provider=indico): No such user
+2018-05-13 15:35:25,775  INFO     bdd096d2fb934e05  indico.rh                 POST /event/3/abstracts/submit?_=1526225565210 [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:36:21,953  INFO     8ee97e69b6324a2d  indico.rh                 GET /event/3/manage/contributions/fields/?_=1526225611702 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:36:24,935  INFO     0def71cbf142461a  indico.rh                 GET /event/3/manage/contributions/fields/description?_=1526225611703 [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:36:53,730  INFO     ba10964da1f24b96  indico.rh                 GET /event/3/manage/contributions/types/?_=1526225611704 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:37:14,911  INFO     eb819c667c544c87  indico.rh                 GET /event/3/manage/ [IP=154.70.35.252] [PID=25346] [UID=1]
+2018-05-13 15:37:17,800  INFO     47427a92d1054a2b  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:37:19,478  INFO     36e7e286fb814fff  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:37:22,321  INFO     0802256defb64ada  indico.rh                 GET /event/3/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:37:23,235  INFO     a3f97adf3d414c7c  indico.rh                 GET /event/3/abstracts/submit?_=1526225842726 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:38:06,175  INFO     da41536c837a4dca  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/abstracts/#submit-abstract', u'params': {u'surName': u'nyamao', u'name': u'', u'organisation': u'', u'conferenceId': 3, u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 15:38:30,700  INFO     20db4260fce749ca  indico.rh                 POST /event/3/abstracts/submit?_=1526225842726 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:38:30,834  INFO     20db4260fce749ca  indico.events.abstracts   Abstract <Abstract(1, event_id=3): "Test abstract 1"> created by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:38:31,207  INFO     662aafafd32547d9  indico.rh                 GET /event/3/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:38:31,479  INFO     0000000000000000  indico.emails             Sent email "[Indico] Abstract Submission confirmation (#1)"
+2018-05-13 15:39:06,808  INFO     c2f2b09bfe514fcc  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25349] [UID=None]
+2018-05-13 15:39:15,288  INFO     c0ea5045b61f4c9d  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:39:37,495  INFO     7ac5553eaf964dcb  indico.rh                 GET /event/3/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:40:26,848  INFO     492e2a5c7f804051  indico.rh                 GET /event/3/abstracts/1/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:48:03,644  INFO     835d384e0dba46c7  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:48:15,444  INFO     244aaf3d6a334f70  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=25346] [UID=1]
+2018-05-13 15:48:16,169  INFO     8fb39ead03ab4931  indico.rh                 GET /admin/version-check?_=1526226495699 [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:48:49,664  INFO     39b477ffef1c4b02  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:48:51,962  INFO     bf6782655e5d4be1  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:48:54,172  INFO     921a47276f2d48f3  indico.rh                 GET /event/3/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:49:03,836  INFO     f9e4f0ae750d423d  indico.rh                 GET /event/3/manage/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:49:11,597  INFO     0578846e28c44730  indico.rh                 GET /event/3/manage/contributions/fields/?_=1526226544080 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:49:18,013  INFO     2015b359d37a496e  indico.rh                 GET /event/3/manage/contributions/types/?_=1526226544081 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:49:22,688  INFO     f9185f1fdd024ee3  indico.rh                 GET /event/3/manage/contributions/types/create?_=1526226544082 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:49:32,188  INFO     2b46080690334160  indico.rh                 GET /event/3/manage/abstracts/settings?_=1526226544083 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:49:56,963  INFO     81b4bb081b74489d  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/abstracts/', u'params': {u'organisation': u'', u'surName': u'mwangi', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 15:50:21,369  INFO     1eba42de715d43cd  indico.rh                 POST /event/3/manage/abstracts/settings [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:50:27,310  INFO     3975a4623f2943d6  indico.rh                 GET /event/3/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:50:34,536  INFO     90bb9f54c9d844c3  indico.rh                 GET /event/3/abstracts/submit?_=1526226627665 [IP=154.70.35.252] [PID=25346] [UID=4]
+2018-05-13 15:51:17,566  INFO     bf711853e5e1448f  indico.rh                 GET /event/3/manage/abstracts/settings?_=1526226544084 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:51:56,794  INFO     f1f4b66276144ce4  indico.rh                 GET /event/3/manage/abstracts/review-settings?_=1526226544085 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:52:50,962  INFO     f10388befa3d41b3  indico.rh                 GET /event/3/manage/abstracts/settings?_=1526226544086 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:52:59,758  INFO     f8b833cd38c44a86  indico.rh                 POST /event/3/manage/abstracts/settings [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:53:08,972  INFO     64f4a9064b78485b  indico.rh                 GET /event/3/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:53:12,620  INFO     149129ba30b64f7c  indico.rh                 GET /event/3/abstracts/submit?_=1526226789365 [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:53:28,878  INFO     698da2e0d3904a62  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/abstracts/#submit-abstract', u'params': {u'surName': u'COLLINS', u'name': u'', u'organisation': u'', u'conferenceId': 3, u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 15:53:35,388  INFO     4fc8740fa07d490c  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/abstracts/#submit-abstract', u'params': {u'surName': u'nyamao', u'name': u'', u'organisation': u'', u'conferenceId': 3, u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 15:54:13,804  INFO     3b40d4c8c5d94430  indico.rh                 POST /event/3/abstracts/submit?_=1526226789365 [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:54:14,825  INFO     3b40d4c8c5d94430  indico.events.abstracts   Abstract <Abstract(2, event_id=3): "Test Abstract 2"> created by <User(4, collinsnyamao@gmail.com): "collins nyamao">
+2018-05-13 15:54:15,184  INFO     92d1ca6baa9f4368  indico.rh                 GET /event/3/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:54:15,442  INFO     0000000000000000  indico.emails             Sent email "[Indico] Abstract Submission confirmation (#2)"
+2018-05-13 15:54:43,489  INFO     0eb83891fe0f4f26  indico.rh                 GET /event/3/abstracts/2/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:55:22,061  INFO     cde21906e342427c  indico.rh                 GET /event/3/abstracts/2/abstract.pdf [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:55:22,195  WARNING  cde21906e342427c  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-13 15:55:22,198  ERROR    cde21906e342427c  indico.flask              Impossible to compile '/opt/indico/tmp/indico-texgen-XCOI0M/single_doc.tpl.tex'. Read '/opt/indico/tmp/indico-texgen-XCOI0M/output.log' for details
+Traceback (most recent call last):
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/flask/util.py", line 114, in wrapper
+    return obj().process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 270, in process
+    res = self._do_process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/controllers/base.py", line 63, in _do_process
+    return RHEventBase._do_process(self)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 249, in _do_process
+    return self._process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/controllers/abstract.py", line 96, in _process
+    return send_file(filename, pdf.generate(), 'application/pdf')
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 683, in generate
+    pdffile = latex.run(self._tpl_filename, **self._args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 749, in run
+    raise LaTeXRuntimeException(source_filename, log_filename)
+LaTeXRuntimeException: LaTeX compilation of /opt/indico/tmp/indico-texgen-XCOI0M/single_doc.tpl.tex failed
+2018-05-13 15:55:33,933  INFO     81ed4afe011143f2  indico.rh                 GET /event/3/abstracts/2/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 15:55:42,364  INFO     862cfccc105e4be2  indico.rh                 GET /event/3/manage/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:55:45,232  INFO     f3b532d8c3204199  indico.rh                 GET /event/3/manage/abstracts/list/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:55:55,072  INFO     0970ae905d934773  indico.rh                 GET /event/3/manage/abstracts/2/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:55:56,747  INFO     8bd9fe66972d405f  indico.rh                 POST /event/3/abstracts/other-list [IP=154.70.35.252] [PID=25344] [UID=1]
+2018-05-13 15:55:57,284  INFO     cce4517618db4edb  indico.rh                 POST /event/3/abstracts/other-list [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:56:16,978  INFO     bd1e6745565a4dad  indico.rh                 GET /event/3/manage/abstracts/teams?_=1526226942594 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:56:24,120  INFO     2937b877022b41a8  indico.rh                 GET / [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:56:26,665  INFO     4620a969cba941d1  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:56:33,054  INFO     6ff97ec6e82c4757  indico.rh                 GET /event/3/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:56:40,424  INFO     42e4588cd5e74463  indico.rh                 GET /event/3/timetable/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:56:44,880  INFO     839c2caace434d41  indico.rh                 GET /event/3/papers/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:56:49,303  INFO     49ff2e70807c49c5  indico.rh                 GET /event/3/book-of-abstracts.pdf [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:56:49,332  WARNING  49ff2e70807c49c5  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-13 15:56:49,343  WARNING  49ff2e70807c49c5  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-13 15:56:49,345  ERROR    49ff2e70807c49c5  indico.flask              Impossible to compile '/opt/indico/tmp/indico-texgen-PvvGhN/book_of_abstracts.tpl.tex'. Read '/opt/indico/tmp/indico-texgen-PvvGhN/output.log' for details
+Traceback (most recent call last):
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/flask/util.py", line 114, in wrapper
+    return obj().process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 270, in process
+    res = self._do_process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/controllers/base.py", line 63, in _do_process
+    return RHEventBase._do_process(self)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 249, in _do_process
+    return self._process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/controllers/boa.py", line 48, in _process
+    return send_file('book-of-abstracts.pdf', create_boa(self.event), 'application/pdf')
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/util.py", line 299, in create_boa
+    tmp_path = pdf.generate()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 683, in generate
+    pdffile = latex.run(self._tpl_filename, **self._args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 749, in run
+    raise LaTeXRuntimeException(source_filename, log_filename)
+LaTeXRuntimeException: LaTeX compilation of /opt/indico/tmp/indico-texgen-PvvGhN/book_of_abstracts.tpl.tex failed
+2018-05-13 15:56:59,673  INFO     828990bd27de4294  indico.rh                 GET /event/3/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:57:05,704  INFO     8bc81eb3ba0e43d7  indico.rh                 GET /event/3/manage/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:57:12,133  INFO     3a6948bec4a04946  indico.rh                 GET /event/3/manage/abstracts/list/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:57:25,111  INFO     e3a56126224f499a  indico.rh                 GET /event/3/manage/abstracts/1/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:57:26,897  INFO     4d948aba639b4080  indico.rh                 POST /event/3/abstracts/other-list [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:57:26,901  INFO     e69890c95dcb40f8  indico.rh                 POST /event/3/abstracts/other-list [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:57:56,834  INFO     fe63b70e24a740ad  indico.rh                 POST /event/3/manage/abstracts/1/judge [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:57:56,920  INFO     fe63b70e24a740ad  indico.events.contributions Contribution <Contribution(1): "Test abstract 1"> created by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:57:56,958  INFO     fe63b70e24a740ad  indico.events.abstracts   Abstract <Abstract(1, event_id=3): "Test abstract 1"> judged by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:57:57,543  INFO     0000000000000000  indico.emails             Sent email "[Indico] Abstract Acceptance notification (#1)"
+2018-05-13 15:58:30,064  INFO     a15cfb987813466b  indico.rh                 GET /event/3/manage/abstracts/list/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:58:36,060  INFO     abae8f13e5a9483f  indico.rh                 GET /event/3/manage/abstracts/2/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:58:37,883  INFO     796eca0ef10b4aae  indico.rh                 POST /event/3/abstracts/other-list [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:58:38,322  INFO     7d46e86b409543d5  indico.rh                 POST /event/3/abstracts/other-list [IP=154.70.35.252] [PID=25344] [UID=1]
+2018-05-13 15:58:47,920  INFO     30468291c29a4fc1  indico.rh                 POST /event/3/manage/abstracts/2/comment [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:58:47,951  INFO     30468291c29a4fc1  indico.events.abstracts   Abstract <Abstract(2, event_id=3): "Test Abstract 2"> received a comment from <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:58:48,901  INFO     014039b1727f44d4  indico.rh                 POST /event/3/abstracts/other-list [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:58:49,622  INFO     24b63786f2ae4913  indico.rh                 POST /event/3/abstracts/other-list [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:58:58,719  INFO     f8c0dc1960954b36  indico.rh                 POST /event/3/manage/abstracts/2/judge [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:58:58,795  INFO     f8c0dc1960954b36  indico.events.contributions Contribution <Contribution(2): "Test Abstract 2"> created by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:58:58,834  INFO     f8c0dc1960954b36  indico.events.abstracts   Abstract <Abstract(2, event_id=3): "Test Abstract 2"> judged by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:58:59,436  INFO     0000000000000000  indico.emails             Sent email "[Indico] Abstract Acceptance notification (#2)"
+2018-05-13 15:59:24,071  INFO     830d839f5bf34500  indico.rh                 GET /event/3/manage/abstracts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:59:31,853  INFO     c3ef702b16e1489e  indico.rh                 POST /event/3/manage/abstracts/close [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:59:31,874  INFO     c3ef702b16e1489e  indico.events.abstracts   Call for abstracts for <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> closed by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:59:32,164  INFO     413320a3ad7d48df  indico.rh                 GET /event/3/manage/abstracts/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 15:59:34,972  INFO     ac5e9a7e81ea43c2  indico.rh                 GET /event/3/manage/papers/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:59:37,826  INFO     d58bfddb004944ed  indico.rh                 POST /event/3/manage/papers/open [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:59:37,842  INFO     d58bfddb004944ed  indico.events.papers      Call for papers for <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> opened by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 15:59:47,605  INFO     190364ce18ed4d50  indico.rh                 GET /event/3/manage/papers/deadlines/content_reviewer?_=1526227175223 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:59:57,402  INFO     3c3ce28776ca43b8  indico.rh                 PUT /event/3/manage/papers/enable/layout [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 15:59:57,415  INFO     3c3ce28776ca43b8  indico.events.papers      Reviewing type 'layout' for event <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> enabled by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 16:00:09,361  INFO     fe62f99636f048a0  indico.rh                 GET /event/3/manage/papers/templates/?_=1526227175224 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 16:00:19,168  INFO     443443e0410b48ec  indico.rh                 GET /event/3/manage/papers/teams/?_=1526227175225 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 16:00:33,244  INFO     cbd58d01af90401d  indico.rh                 GET /event/3/manage/papers/teams/?_=1526227175226 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 16:00:46,354  INFO     fc64f6cd79884574  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/papers/', u'params': {u'organisation': u'', u'surName': u'mwangi', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 16:01:02,158  INFO     5ab83c8dd5924846  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/papers/', u'params': {u'organisation': u'', u'surName': u'nyamao', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 16:01:14,502  INFO     dd6041493e14403d  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/papers/', u'params': {u'organisation': u'', u'surName': u'nyamao', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 16:01:21,991  INFO     2cd2e7570ab74758  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/papers/', u'params': {u'organisation': u'', u'surName': u'mwangi', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 16:01:30,444  INFO     5e8bfc0188104ff8  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/event/3/manage/papers/', u'params': {u'organisation': u'', u'surName': u'nyamao', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-13 16:02:11,706  INFO     7b791fcfd9ce4591  indico.rh                 POST /event/3/manage/papers/teams/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 16:02:11,738  INFO     7b791fcfd9ce4591  indico.events.papers      Paper teams of <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> updated by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-13 16:02:18,696  INFO     a5e1b4776ed4466d  indico.rh                 GET /event/3/abstracts/2/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 16:02:26,273  INFO     d12c2954905542a9  indico.rh                 GET /event/3/contributions/2/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 16:02:38,534  INFO     21812606f2384086  indico.rh                 GET /event/3/manage/contributions/2/attachments/?_=1526227346887 [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 16:02:42,417  INFO     ba18095d22d44a27  indico.rh                 GET /event/3/manage/contributions/2/attachments/add/files?_=1526227346888 [IP=154.70.35.252] [PID=25348] [UID=4]
+2018-05-13 16:05:54,421  INFO     9ba5612b2b47405e  indico.rh                 POST /event/3/manage/contributions/2/attachments/add/files [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 16:06:01,854  INFO     9ba5612b2b47405e  indico.attachments        Attachment <Attachment(4, POWERPOINT TEMPLATE.pptx, <AttachmentFile(4, 4, POWERPOINT_TEMPLATE.pptx, application/vnd.openxmlformats-officedocument.presentationml.presentation)>, protection_mode=inheriting, 4)> uploaded by <User(4, collinsnyamao@gmail.com): "collins nyamao">
+2018-05-13 16:06:08,575  INFO     71d25968f00f44ee  indico.rh                 GET /event/3/contributions/2/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 16:06:55,552  INFO     e8cb559990ba4edf  indico.rh                 GET /event/3/contributions/2/paper/submit?_=1526227581386 [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 16:07:09,222  INFO     9207c67a74a84235  indico.rh                 POST /event/3/contributions/2/paper/submit?_=1526227581386 [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 16:07:10,074  INFO     9207c67a74a84235  indico.events.papers      Paper revision <PaperRevision(1, 2, state=submitted)> submitted by <User(4, collinsnyamao@gmail.com): "collins nyamao">
+2018-05-13 16:07:10,401  INFO     439551a4395942c8  indico.rh                 GET /event/3/papers/2/ [IP=154.70.35.252] [PID=25348] [UID=4]
+2018-05-13 16:08:07,841  INFO     4e13268b39214517  indico.rh                 GET /event/3/manage/papers/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 16:08:11,025  INFO     3da717811cdb4d7c  indico.rh                 GET /event/3/manage/papers/assignment-list/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 16:08:17,614  INFO     4158befda7b948e6  indico.rh                 GET /event/3/papers/2/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 16:08:39,705  INFO     20197148641548a1  indico.rh                 POST /event/3/papers/2/judgment [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 16:08:39,806  INFO     20197148641548a1  indico.events.papers      Paper <Paper(contribution_id=2, state=accepted)> was judged by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi"> to Accept
+2018-05-13 16:08:40,428  INFO     0000000000000000  indico.emails             Sent email "[Indico] Paper assessment"
+2018-05-13 16:09:28,393  INFO     922778508e95462d  indico.rh                 GET /event/3/overview [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 16:09:42,692  INFO     e440de49ff4b469c  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25349] [UID=4]
+2018-05-13 16:09:50,482  INFO     9ae52624695a4b7b  indico.rh                 GET / [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-13 16:09:53,841  INFO     07a0aca248794419  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25346] [UID=1]
+2018-05-13 16:09:56,488  INFO     431eccf1d03f436d  indico.rh                 GET /event/3/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 16:12:03,332  INFO     130a376cf10e472a  indico.rh                 GET /event/3/manage/contributions/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-13 16:12:26,643  INFO     85bb06e2dbbd40b0  indico.rh                 GET /event/3/manage/timetable/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-14 02:52:04,081  INFO     261ae3ac7099436a  indico.rh                 GET / [IP=139.162.116.133] [PID=25349] [UID=None]
+2018-05-14 03:30:00,121  INFO     0000000000000000  indico.events.static      Removing 0 expired static sites from the past 30 days
+2018-05-14 04:00:00,133  INFO     0000000000000000  indico                    Deleted from cache: assets_global_2209863190.js
+2018-05-14 04:00:00,133  INFO     0000000000000000  indico                    Deleted from cache: assets_global_2944894212.js
+2018-05-14 04:00:00,133  INFO     0000000000000000  indico                    Deleted from cache: assets_i18n_en_GB_0.js
+2018-05-14 04:00:00,133  INFO     0000000000000000  indico                    Deleted from cache: assets_i18n_en_GB_2450334794.js
+2018-05-14 04:00:00,136  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/ErrorList.tpl.py
+2018-05-14 04:00:00,136  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/ErrorList.tpl.pyc
+2018-05-14 04:00:00,136  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/RoomBookingNewBookingPeriodWidget.tpl.py
+2018-05-14 04:00:00,136  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/RoomBookingNewBookingPeriodWidget.tpl.pyc
+2018-05-14 04:00:00,136  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/RoomBookingNewBookingSelectRoom.tpl.py
+2018-05-14 04:00:00,136  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/RoomBookingNewBookingSelectRoom.tpl.pyc
+2018-05-14 04:00:00,136  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/RoomBookingSearchBookings.tpl.py
+2018-05-14 04:00:00,136  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/RoomBookingSearchBookings.tpl.pyc
+2018-05-14 04:00:00,136  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/js/mathjax.config.js.tpl.py
+2018-05-14 04:00:00,136  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/js/mathjax.config.js.tpl.pyc
+2018-05-14 08:22:31,958  INFO     8466cf224592440b  indico.rh                 GET / [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:23:42,363  INFO     3e22d4aa3483431c  indico.rh                 GET /logout/?next=%2F [IP=156.0.233.50] [PID=25348] [UID=1]
+2018-05-14 08:23:42,622  INFO     4eb5e6160ae144cc  indico.rh                 GET / [IP=156.0.233.50] [PID=25349] [UID=None]
+2018-05-14 08:23:45,181  INFO     7c4612459d4f4e45  indico.rh                 GET / [IP=156.0.233.50] [PID=25348] [UID=None]
+2018-05-14 08:23:46,878  INFO     ab2029be2dac4ecf  indico.rh                 GET /login/ [IP=156.0.233.50] [PID=25344] [UID=None]
+2018-05-14 08:24:06,084  INFO     44f6ab85bc4c4d94  indico.rh                 POST /login/ [IP=156.0.233.50] [PID=25349] [UID=None]
+2018-05-14 08:24:06,446  INFO     44f6ab85bc4c4d94  indico.auth               Received identity info: <IdentityInfo(<IndicoIdentityProvider(indico)>, sarahmwangi, None)>
+2018-05-14 08:24:06,453  INFO     44f6ab85bc4c4d94  indico.auth               Found existing identity <Identity(1, 1, indico, sarahmwangi)> for user <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-14 08:24:06,798  INFO     d0b6d9e20aa14d3f  indico.rh                 GET / [IP=156.0.233.50] [PID=25348] [UID=1]
+2018-05-14 08:24:17,136  INFO     47cdef89d56a418c  indico.rh                 GET /admin/settings/ [IP=156.0.233.50] [PID=25348] [UID=1]
+2018-05-14 08:24:18,384  INFO     94bf576d564345f0  indico.rh                 GET /admin/version-check?_=1526286258342 [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:24:18,979  INFO     dff5af6ed272478a  indico.rh                 GET /admin/version-check?_=1526286258342 [IP=156.0.233.50] [PID=25346] [UID=1]
+2018-05-14 08:25:47,517  INFO     0b7be764916740cd  indico.rh                 GET / [IP=156.0.233.50] [PID=25348] [UID=1]
+2018-05-14 08:25:49,729  INFO     e6b3900e3c76461f  indico.rh                 GET /event/3/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:25:55,988  INFO     e16c94d14de64813  indico.rh                 GET /event/3/manage/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:26:33,019  INFO     c668870478624816  indico.rh                 GET /category/0/manage/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:26:34,117  INFO     8ab7abd00e5f4871  indico.rh                 GET /category/0/info [IP=156.0.233.50] [PID=25344] [UID=1]
+2018-05-14 08:26:35,961  INFO     5e18fa395c514265  indico.rh                 GET /event/3/manage/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:26:43,855  INFO     c594f10b1c704d98  indico.rh                 GET /category/0/manage/settings [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:26:59,673  INFO     77e9119b02014355  indico.rh                 GET / [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:27:19,118  INFO     535871d8d0d34e05  indico.rh                 GET /event/create/conference?category_id=0&_=1526286420927 [IP=156.0.233.50] [PID=25348] [UID=1]
+2018-05-14 08:27:19,813  INFO     a0a8c2f3bf094e6a  indico.rh                 GET /category/0/info [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:27:25,899  INFO     32324910d34646da  indico.rh                 GET /event/3/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:27:32,104  INFO     01dafeab71a9437f  indico.rh                 GET /event/3/manage/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:27:36,723  INFO     c73aa4253b8d4158  indico.rh                 GET /event/3/manage/timetable/ [IP=156.0.233.50] [PID=25348] [UID=1]
+2018-05-14 08:28:53,821  INFO     32f2c065a916455c  indico.rh                 GET /event/3/manage/clone?_=1526286458043 [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:29:11,843  INFO     a89cbcf7b41a4c2c  indico.rh                 GET /event/3/manage/tracks/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:29:17,782  INFO     45f2aeb115324690  indico.rh                 GET /event/3/manage/tracks/program?_=1526286553291 [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:31:06,945  INFO     c1cb2f320f214504  indico.rh                 GET /category/0/manage/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:31:07,694  INFO     c4aac66c8e5a434b  indico.rh                 GET /category/0/info [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:31:10,224  INFO     62cea47870f64276  indico.rh                 GET /event/3/manage/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:31:25,592  INFO     97daab3a74cc4a0c  indico.rh                 GET / [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:31:27,380  INFO     77f47f433a61437b  indico.rh                 GET /event/3/ [IP=156.0.233.50] [PID=25348] [UID=1]
+2018-05-14 08:31:34,906  INFO     c4b1e23fab394b3d  indico.rh                 GET /event/3/manage/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:31:38,245  INFO     204a2138e62f4272  indico.rh                 GET /event/3/manage/abstracts/ [IP=156.0.233.50] [PID=25348] [UID=1]
+2018-05-14 08:31:48,829  INFO     b35d9aac30f44bb8  indico.rh                 POST /event/3/manage/abstracts/open [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:31:48,844  INFO     b35d9aac30f44bb8  indico.events.abstracts   Call for abstracts for <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> opened by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-14 08:31:49,137  INFO     fc046d87731d4af3  indico.rh                 GET /event/3/manage/abstracts/ [IP=156.0.233.50] [PID=25348] [UID=1]
+2018-05-14 08:32:01,224  INFO     c0588b8622884e23  indico.rh                 GET /event/3/manage/abstracts/settings?_=1526286710462 [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:32:35,932  INFO     a5ea57d43e5244e5  indico.rh                 GET /event/3/manage/abstracts/teams?_=1526286710463 [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:32:48,937  INFO     cdf8faac71f94f3a  indico.rh                 GET /event/3/manage/abstracts/list/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 08:32:57,232  INFO     de99d25455be4db7  indico.rh                 GET /event/3/manage/papers/ [IP=156.0.233.50] [PID=25349] [UID=1]
+2018-05-14 09:24:49,514  INFO     8fc6001b13914067  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:26:50,107  INFO     c8805192fe6e40be  indico.rh                 GET /logout/?next=%2F [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:26:50,369  INFO     3340be1d73ff4251  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=None]
+2018-05-14 09:26:56,661  INFO     b3957a6f183f4358  indico.rh                 GET /login/ [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 09:27:00,893  INFO     ebe085ea6c7b4272  indico.rh                 POST /login/ [IP=156.0.233.51] [PID=25348] [UID=None]
+2018-05-14 09:27:01,279  INFO     ebe085ea6c7b4272  indico.auth               Received identity info: <IdentityInfo(<IndicoIdentityProvider(indico)>, sarahmwangi, None)>
+2018-05-14 09:27:01,287  INFO     ebe085ea6c7b4272  indico.auth               Found existing identity <Identity(1, 1, indico, sarahmwangi)> for user <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-14 09:27:01,544  INFO     4328bbb466ee4abd  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:27:05,396  INFO     ee8baafe82884767  indico.rh                 GET /event/3/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:27:09,795  INFO     ae810d84091c4e8a  indico.rh                 GET /event/3/manage/ [IP=156.0.233.51] [PID=25344] [UID=1]
+2018-05-14 09:27:13,663  INFO     75f80fb3f5eb45da  indico.rh                 GET /admin/settings/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:27:14,179  INFO     2a179eff6f254de3  indico.rh                 GET /admin/version-check?_=1526290035947 [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:27:22,432  INFO     ab76fd997f9d41d8  indico.rh                 GET /admin/groups/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:27:34,586  INFO     adf4f7bcb0cc49dd  indico.rh                 GET /admin/users/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:27:44,726  INFO     c911b40709794630  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:27:51,508  INFO     9f4ea9542f3d4f5d  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=4]
+2018-05-14 09:28:16,330  INFO     6ee1a628e1a249ef  indico.rh                 GET /logout/?next=%2F [IP=156.0.233.51] [PID=25348] [UID=4]
+2018-05-14 09:28:16,664  INFO     edca07a21d52431c  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 09:28:24,476  INFO     549fb0be67d44ded  indico.rh                 GET /logout/?next=%2Fadmin%2Fusers%2F [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:28:24,722  INFO     c25c89baf4194b3e  indico.rh                 GET /admin/users/ [IP=156.0.233.51] [PID=25344] [UID=None]
+2018-05-14 09:28:24,964  INFO     9983a3341a294516  indico.rh                 GET /login/?next=%2Fadmin%2Fusers%2F [IP=156.0.233.51] [PID=25346] [UID=None]
+2018-05-14 09:28:27,541  INFO     f864250509354da7  indico.rh                 GET /register/?next=%2Fadmin%2Fusers%2F [IP=156.0.233.51] [PID=25346] [UID=None]
+2018-05-14 09:29:18,280  INFO     15777a324d6a4951  indico.rh                 GET /login/?next=%2Fadmin%2Fusers%2F [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 09:29:20,358  INFO     6488b99f977b422a  indico.rh                 POST /login/?next=%2Fadmin%2Fusers%2F [IP=156.0.233.51] [PID=25348] [UID=None]
+2018-05-14 09:29:20,727  INFO     6488b99f977b422a  indico.auth               Received identity info: <IdentityInfo(<IndicoIdentityProvider(indico)>, sarahmwangi, None)>
+2018-05-14 09:29:20,733  INFO     6488b99f977b422a  indico.auth               Found existing identity <Identity(1, 1, indico, sarahmwangi)> for user <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-14 09:29:21,052  INFO     b840f3b031dc4b5a  indico.rh                 GET /admin/users/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:29:30,690  INFO     819a25c748914a27  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:29:32,356  INFO     e20bc9cfc51f481c  indico.rh                 GET /event/3/ [IP=156.0.233.51] [PID=25344] [UID=1]
+2018-05-14 09:29:33,952  INFO     d756ba26e27840af  indico.rh                 GET /event/3/manage/ [IP=156.0.233.51] [PID=25346] [UID=1]
+2018-05-14 09:30:02,311  INFO     cdbcb043d4d44917  indico.rh                 GET /rooms/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:30:02,622  INFO     daa1d8af4ce74892  indico.rh                 GET /rooms/book [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:30:04,530  INFO     b2b607bcfad34501  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/rooms/book', u'params': {u'start_date': u'2018-05-14', u'end_date': u'2018-05-14'}, u'method': u'roomBooking.getDateWarning'}
+2018-05-14 09:30:21,164  INFO     f8c52d9204f9497f  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:30:24,876  INFO     f7755954609742fa  indico.rh                 GET /logout/?next=%2F [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:30:25,155  INFO     edc949bfde954f29  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 09:33:20,222  INFO     8783753a0345402a  indico.rh                 GET /login/ [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 09:38:30,400  INFO     43bee32785704380  indico.rh                 POST /login/ [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 09:38:30,774  INFO     43bee32785704380  indico.auth               Received identity info: <IdentityInfo(<IndicoIdentityProvider(indico)>, sarahmwangi, None)>
+2018-05-14 09:38:30,781  INFO     43bee32785704380  indico.auth               Found existing identity <Identity(1, 1, indico, sarahmwangi)> for user <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-14 09:38:31,238  INFO     cf2a21d520c84686  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:38:36,749  INFO     74fad8f2ef8a4290  indico.rh                 GET /admin/settings/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:38:37,252  INFO     d9ac48cdfa4e47e9  indico.rh                 GET /admin/version-check?_=1526290718842 [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:38:55,735  INFO     a98b33428a314541  indico.rh                 GET /admin/admins [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:38:59,362  INFO     351e437cf2454e2f  indico.rh                 GET /admin/groups/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:39:05,187  INFO     05942b0410434a6d  indico.rh                 GET /admin/users/ [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:39:16,903  INFO     f6c95d61b9d34e1d  indico.rh                 GET /admin/settings/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:39:17,722  INFO     a53af0d614e946cd  indico.rh                 GET /admin/version-check?_=1526290759018 [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:39:37,888  INFO     81c0bbf80a504baf  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:39:38,576  INFO     1e1d61800b944c9c  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:39:39,384  INFO     8cb5d25401704778  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:39:40,239  INFO     758dfa6b39a947a0  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:39:42,452  INFO     79d938d04f304c2e  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:39:44,434  INFO     cb59058a34e24712  indico.rh                 GET /event/3/ [IP=156.0.233.51] [PID=25344] [UID=1]
+2018-05-14 09:40:02,370  INFO     7a94e3ecc9d54bc4  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:40:12,187  INFO     9a590b8d98bc4c99  indico.rh                 GET /logout/?next=%2F [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:40:12,494  INFO     8f7473b69f9a43d3  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=None]
+2018-05-14 09:40:33,450  INFO     1a79874bb21f4ef0  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=None]
+2018-05-14 09:40:37,942  INFO     efd35b492f904d52  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 09:40:41,673  INFO     8fd1c43f5dd74c59  indico.rh                 GET /login/ [IP=156.0.233.51] [PID=25348] [UID=None]
+2018-05-14 09:41:21,505  INFO     1babd3c3c6e14a7a  indico.rh                 GET /register/ [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 09:41:24,576  INFO     ea6ccdd10c064e3e  indico.rh                 GET /register/ [IP=156.0.233.51] [PID=25348] [UID=None]
+2018-05-14 09:41:41,988  INFO     ecfa2419205b4f74  indico.rh                 POST /login/ [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 09:41:42,355  INFO     ecfa2419205b4f74  indico.auth               Received identity info: <IdentityInfo(<IndicoIdentityProvider(indico)>, sarahmwangi, None)>
+2018-05-14 09:41:42,362  INFO     ecfa2419205b4f74  indico.auth               Found existing identity <Identity(1, 1, indico, sarahmwangi)> for user <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-14 09:41:42,966  INFO     2cfc2eecf33b4279  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:41:57,762  INFO     34052ae89d924288  indico.rh                 GET /event/3/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:42:13,967  INFO     11f9a2967edc4c5d  indico.rh                 GET /event/3/ [IP=156.0.233.51] [PID=25346] [UID=1]
+2018-05-14 09:42:21,546  INFO     637c7083a6e643ae  indico.rh                 GET /event/3/papers/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:42:31,401  INFO     fe9ca71cac234a56  indico.rh                 GET /event/3/manage/ [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:43:03,248  INFO     7a9501cf4ff5458a  indico.rh                 GET /user/dashboard/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:43:06,077  INFO     56846f3540534755  indico.rh                 GET /admin/settings/ [IP=156.0.233.51] [PID=25344] [UID=1]
+2018-05-14 09:43:06,692  INFO     05f1e7879f5342dd  indico.rh                 GET /admin/version-check?_=1526290988091 [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:44:30,261  INFO     e701ae02eb9c4d8b  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:45:40,161  INFO     70a21e392e2a4eb0  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:45:59,321  INFO     7b43ba54ef0644b3  indico.rh                 GET /logout/?next=%2F [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:45:59,638  INFO     128f4a8cc9704cd4  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=None]
+2018-05-14 09:46:38,236  INFO     00e8422d95e04eb1  indico.rh                 GET / [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 09:46:59,241  INFO     0a4606903cc44bcc  indico.rh                 GET /login/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 09:47:09,002  INFO     f7a32c62764547c9  indico.rh                 GET /register/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 09:47:21,365  INFO     b6e20720a50740d4  indico.rh                 POST /register/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 09:47:21,628  INFO     40d3fe3011464436  indico.rh                 GET /register/ [IP=156.0.232.20] [PID=25348] [UID=None]
+2018-05-14 09:47:22,389  INFO     0000000000000000  indico.emails             Sent email "[Indico] Verify your email"
+2018-05-14 09:48:10,787  INFO     4d4e6aa083e34ee2  indico.rh                 GET /register/?token=ImNvcGl5b0BzdHJhdGhtb3JlLmVkdSI.DdrsqQ.RHMObFEFv52Z6WmQPc98dCsOU0g [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 09:48:11,040  INFO     b6fc3fd5f4964891  indico.rh                 GET /register/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 09:49:04,636  INFO     7ea9c435171a49ac  indico.rh                 POST /register/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 09:49:05,350  INFO     2447035cb4c4491f  indico.rh                 GET / [IP=156.0.232.20] [PID=25348] [UID=5]
+2018-05-14 09:49:12,882  INFO     10ba4b75897546f9  indico.rh                 GET /user/profile/ [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 09:49:37,826  INFO     a09f8b4dc36d412a  indico.rh                 POST /user/profile/ [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 09:49:38,090  INFO     7860cda51efc4b29  indico.rh                 GET /user/profile/ [IP=156.0.232.20] [PID=25348] [UID=5]
+2018-05-14 09:49:55,791  INFO     d3ac92f5b9394bb9  indico.rh                 GET /login/ [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 09:49:58,538  INFO     9f95c472390849cc  indico.rh                 POST /login/ [IP=156.0.233.51] [PID=25348] [UID=None]
+2018-05-14 09:49:58,920  INFO     9f95c472390849cc  indico.auth               Received identity info: <IdentityInfo(<IndicoIdentityProvider(indico)>, sarahmwangi, None)>
+2018-05-14 09:49:58,928  INFO     9f95c472390849cc  indico.auth               Found existing identity <Identity(1, 1, indico, sarahmwangi)> for user <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-14 09:49:59,274  INFO     90c64c436e5f4e84  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:50:16,637  INFO     475a38fcfe2a4a35  indico.rh                 GET / [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 09:50:29,967  INFO     ffb3e358ab1e495e  indico.rh                 GET /admin/settings/ [IP=156.0.233.51] [PID=25346] [UID=1]
+2018-05-14 09:50:30,783  INFO     1b876d98282e4788  indico.rh                 GET /admin/settings/ [IP=156.0.233.51] [PID=25344] [UID=1]
+2018-05-14 09:50:31,317  INFO     8a73f2394c8d44ad  indico.rh                 GET /admin/version-check?_=1526291432890 [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:50:33,150  INFO     2004902d0b2b4f20  indico.rh                 GET /admin/admins [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:50:42,702  INFO     d5fafa2c45014982  indico.rh                 GET /admin/users/ [IP=156.0.233.51] [PID=25344] [UID=1]
+2018-05-14 09:51:27,963  INFO     ab537389ac9d41b5  indico.rh                 POST /admin/users/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:51:55,980  INFO     3e4b0bbf39a54aee  indico.rh                 POST /admin/users/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:52:00,083  INFO     e69c2c60c1d04e32  indico.rh                 GET /user/5/profile/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:52:08,885  INFO     b14d70ad6629489e  indico.rh                 GET /admin/settings/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:52:09,405  INFO     10202ccf0a8a4619  indico.rh                 GET /admin/version-check?_=1526291530988 [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:52:11,268  INFO     254f14d49c60409b  indico.rh                 GET /admin/admins [IP=156.0.233.51] [PID=25344] [UID=1]
+2018-05-14 09:53:22,213  INFO     6436b2dc5fb74df4  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/admin/admins', u'params': {u'organisation': u'Strathmore University', u'surName': u'Opiyo', u'name': u'Cavin', u'exactMatch': False, u'email': u'copiyo@strathmore.edu'}, u'method': u'search.users'}
+2018-05-14 09:53:30,184  INFO     cd46ee238ab54ff7  indico.rh                 POST /admin/admins [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:53:30,211  WARNING  cd46ee238ab54ff7  indico.users              Admin rights granted to <User(5, copiyo@strathmore.edu): "Cavin Opiyo"> by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi"> [156.0.233.51]
+2018-05-14 09:53:30,605  INFO     3abb2ff341ea4672  indico.rh                 GET /admin/admins [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:54:11,983  INFO     c803a747d7bb4056  indico.rh                 GET / [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 09:54:25,392  INFO     777f54fe487c4c55  indico.rh                 GET /event/3/ [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 09:54:39,315  INFO     e7fd30088524400e  indico.rh                 GET /event/3/abstracts/ [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 09:54:52,483  INFO     ca0746b8d2fc4f58  indico.rh                 GET /event/3/abstracts/submit?_=1526291680491 [IP=156.0.232.20] [PID=25348] [UID=5]
+2018-05-14 09:58:07,107  INFO     701b3e0f6ddd4603  indico.rh                 POST /event/3/abstracts/submit?_=1526291680491 [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 09:58:07,474  INFO     701b3e0f6ddd4603  indico.events.abstracts   Abstract <Abstract(3, event_id=3): "Demand Forecasting in Inventory Management for Fis..."> created by <User(5, copiyo@strathmore.edu): "Cavin Opiyo">
+2018-05-14 09:58:07,838  INFO     0b4cc0f2f20849cb  indico.rh                 GET /event/3/abstracts/ [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 09:58:08,141  INFO     0000000000000000  indico.emails             Sent email "[Indico] Abstract Submission confirmation (#3)"
+2018-05-14 09:58:26,293  INFO     ce0b80f15786491c  indico.rh                 GET /event/3/papers/reviewing/ [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 09:58:59,210  INFO     6ef5abdb03d54bca  indico.rh                 GET /admin/groups/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:59:00,252  INFO     93a16d55ef9f42f8  indico.rh                 GET /admin/groups/ [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:59:31,153  INFO     a02c6886968547e1  indico.rh                 GET /admin/settings/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:59:31,636  INFO     902ef23afdf04b1e  indico.rh                 GET /admin/version-check?_=1526291973144 [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:59:34,459  INFO     d4be01e8d0844e50  indico.rh                 GET / [IP=156.0.233.51] [PID=25348] [UID=1]
+2018-05-14 09:59:36,663  INFO     3550134da5b840b7  indico.rh                 GET /event/3/ [IP=156.0.233.51] [PID=25344] [UID=1]
+2018-05-14 09:59:47,421  INFO     bd73c33cc5c54e42  indico.rh                 GET /event/3/papers/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 09:59:52,328  INFO     2ed1329bdc3646b4  indico.rh                 GET /event/3/overview [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 10:00:14,580  INFO     e17842f92f0f4a8c  indico.rh                 GET /event/3/abstracts/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 10:00:18,219  INFO     6c4b67b0d20f4767  indico.rh                 GET /event/3/registrations/participants [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 10:00:22,920  INFO     15d407991ac249b8  indico.rh                 GET /event/3/book-of-abstracts.pdf [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 10:00:23,027  WARNING  15d407991ac249b8  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-14 10:00:23,040  WARNING  15d407991ac249b8  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-14 10:00:23,043  ERROR    15d407991ac249b8  indico.flask              Impossible to compile '/opt/indico/tmp/indico-texgen-vs56B3/book_of_abstracts.tpl.tex'. Read '/opt/indico/tmp/indico-texgen-vs56B3/output.log' for details
+Traceback (most recent call last):
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/flask/util.py", line 114, in wrapper
+    return obj().process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 270, in process
+    res = self._do_process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/controllers/base.py", line 63, in _do_process
+    return RHEventBase._do_process(self)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 249, in _do_process
+    return self._process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/controllers/boa.py", line 48, in _process
+    return send_file('book-of-abstracts.pdf', create_boa(self.event), 'application/pdf')
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/util.py", line 299, in create_boa
+    tmp_path = pdf.generate()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 683, in generate
+    pdffile = latex.run(self._tpl_filename, **self._args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 749, in run
+    raise LaTeXRuntimeException(source_filename, log_filename)
+LaTeXRuntimeException: LaTeX compilation of /opt/indico/tmp/indico-texgen-vs56B3/book_of_abstracts.tpl.tex failed
+2018-05-14 10:00:32,603  INFO     b6f384906f814a5c  indico.rh                 GET /event/3/abstracts/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 10:00:39,261  INFO     ff802ca30299421d  indico.rh                 GET /event/3/manage/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 10:01:17,119  INFO     55c740ffc36343ab  indico.rh                 GET /event/3/manage/abstracts/ [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 10:01:22,668  INFO     7d1e88353c904af2  indico.rh                 GET /event/3/manage/ [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:01:32,788  INFO     cc4a43cf53954d55  indico.rh                 GET /event/3/manage/abstracts/ [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:01:53,088  INFO     df7bfb0cb82341b9  indico.rh                 GET /event/3/manage/abstracts/teams?_=1526292093907 [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:02:28,737  INFO     eb312901f0fa4bf5  indico.rh                 POST /event/3/manage/abstracts/teams [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:02:28,817  INFO     eb312901f0fa4bf5  indico.events.abstracts   Abstract reviewing roles of <Event(3, 2018-10-29 13:00:00+00:00, 2018-11-02 15:00:00+00:00): "TEST INNOVATIONS CONFERENCE"> have been updated by <User(5, copiyo@strathmore.edu): "Cavin Opiyo">
+2018-05-14 10:02:43,722  INFO     4c7f2c516aa542d8  indico.rh                 GET /event/3/manage/abstracts/list/ [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:03:20,704  INFO     0404a78dd894424e  indico.rh                 GET /event/3/manage/abstracts/3/ [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:03:24,682  INFO     976b21ff179e4d43  indico.rh                 POST /event/3/abstracts/other-list [IP=156.0.232.20] [PID=25348] [UID=5]
+2018-05-14 10:03:24,687  INFO     b39804ae3e294aad  indico.rh                 POST /event/3/abstracts/other-list [IP=156.0.232.20] [PID=25344] [UID=5]
+2018-05-14 10:03:44,517  INFO     376ae165b377446e  indico.rh                 GET /event/3/manage/abstracts/3/edit?_=1526292202287 [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:04:30,251  INFO     0ecfdf6c1ca64abe  indico.rh                 POST /event/3/manage/abstracts/3/edit?_=1526292202287 [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:04:30,304  INFO     0ecfdf6c1ca64abe  indico.events.abstracts   Abstract <Abstract(3, event_id=3): "Demand Forecasting in Inventory Management for Fis..."> modified by <User(5, copiyo@strathmore.edu): "Cavin Opiyo">
+2018-05-14 10:04:30,693  INFO     dbbbc8e9237448f1  indico.rh                 GET /event/3/manage/abstracts/3/ [IP=156.0.232.20] [PID=25348] [UID=5]
+2018-05-14 10:04:34,766  INFO     e4bf09ab71a94bac  indico.rh                 POST /event/3/abstracts/other-list [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:04:35,038  INFO     fc3f233fe39e42ce  indico.rh                 POST /event/3/abstracts/other-list [IP=156.0.232.20] [PID=25348] [UID=5]
+2018-05-14 10:05:04,126  INFO     d7d0fc3dad534a29  indico.rh                 POST /event/3/manage/abstracts/3/judge [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:05:04,206  INFO     d7d0fc3dad534a29  indico.events.contributions Contribution <Contribution(3): "Demand Forecasting in Inventory Management for Fishing Flies: Case Study of Neptune Flies Company in Kiambu County, Kenya"> created by <User(5, copiyo@strathmore.edu): "Cavin Opiyo">
+2018-05-14 10:05:04,223  INFO     d7d0fc3dad534a29  indico.events.abstracts   Abstract <Abstract(3, event_id=3): "Demand Forecasting in Inventory Management for Fis..."> judged by <User(5, copiyo@strathmore.edu): "Cavin Opiyo">
+2018-05-14 10:05:28,746  INFO     cb0078eb103b49d9  indico.rh                 GET /event/3/manage/abstracts/3/notifications?_=1526292272084 [IP=156.0.232.20] [PID=25349] [UID=5]
+2018-05-14 10:13:30,066  INFO     8c904b195b424800  indico.rh                 GET /event/3/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 10:14:17,009  INFO     48c0ac12997441fb  indico.rh                 GET /event/3/book-of-abstracts.pdf [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 10:14:17,118  WARNING  48c0ac12997441fb  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-14 10:14:17,129  WARNING  48c0ac12997441fb  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-14 10:14:17,132  ERROR    48c0ac12997441fb  indico.flask              Impossible to compile '/opt/indico/tmp/indico-texgen-feg8Ga/book_of_abstracts.tpl.tex'. Read '/opt/indico/tmp/indico-texgen-feg8Ga/output.log' for details
+Traceback (most recent call last):
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/flask/util.py", line 114, in wrapper
+    return obj().process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 270, in process
+    res = self._do_process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/controllers/base.py", line 63, in _do_process
+    return RHEventBase._do_process(self)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 249, in _do_process
+    return self._process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/controllers/boa.py", line 48, in _process
+    return send_file('book-of-abstracts.pdf', create_boa(self.event), 'application/pdf')
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/util.py", line 299, in create_boa
+    tmp_path = pdf.generate()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 683, in generate
+    pdffile = latex.run(self._tpl_filename, **self._args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 749, in run
+    raise LaTeXRuntimeException(source_filename, log_filename)
+LaTeXRuntimeException: LaTeX compilation of /opt/indico/tmp/indico-texgen-feg8Ga/book_of_abstracts.tpl.tex failed
+2018-05-14 10:16:27,268  INFO     422357dee6e442e0  indico.rh                 GET /event/3/book-of-abstracts.pdf [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 10:16:27,376  WARNING  422357dee6e442e0  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-14 10:16:27,388  WARNING  422357dee6e442e0  indico.pdflatex           PDF creation possibly failed (non-zero exit code)!
+2018-05-14 10:16:27,391  ERROR    422357dee6e442e0  indico.flask              Impossible to compile '/opt/indico/tmp/indico-texgen-g1vmRE/book_of_abstracts.tpl.tex'. Read '/opt/indico/tmp/indico-texgen-g1vmRE/output.log' for details
+Traceback (most recent call last):
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1612, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/flask/app.py", line 1598, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/flask/util.py", line 114, in wrapper
+    return obj().process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 270, in process
+    res = self._do_process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/controllers/base.py", line 63, in _do_process
+    return RHEventBase._do_process(self)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/web/rh.py", line 249, in _do_process
+    return self._process()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/controllers/boa.py", line 48, in _process
+    return send_file('book-of-abstracts.pdf', create_boa(self.event), 'application/pdf')
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/modules/events/abstracts/util.py", line 299, in create_boa
+    tmp_path = pdf.generate()
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 683, in generate
+    pdffile = latex.run(self._tpl_filename, **self._args)
+  File "/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/pdfinterface/base.py", line 749, in run
+    raise LaTeXRuntimeException(source_filename, log_filename)
+LaTeXRuntimeException: LaTeX compilation of /opt/indico/tmp/indico-texgen-g1vmRE/book_of_abstracts.tpl.tex failed
+2018-05-14 10:19:15,721  INFO     09cf7630ac9f4ec6  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-14 10:19:18,173  INFO     53ea3bb4d4f049e0  indico.rh                 GET / [IP=156.0.233.51] [PID=25344] [UID=None]
+2018-05-14 10:57:29,797  INFO     dcd9834d4a114f42  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=1]
+2018-05-14 12:16:15,719  INFO     533b3ec5503146fc  indico.rh                 GET / [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 12:16:24,439  INFO     37a2140185a44359  indico.rh                 GET /event/3/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 12:16:52,502  INFO     fe620d3a8e734d3a  indico.rh                 GET /event/3/attachments/3/3/PHOTO-2018-05-07-16-31-41.jpg?preview=1&_=1526300185636 [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 12:16:52,928  INFO     872449f934b14694  indico.rh                 GET /event/3/attachments/3/3/PHOTO-2018-05-07-16-31-41.jpg?from_preview=1 [IP=156.0.232.20] [PID=25348] [UID=None]
+2018-05-14 12:17:40,827  INFO     df0977fc99e34363  indico.rh                 GET /event/3/overview [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-14 13:53:09,746  INFO     9ebde710a2724875  indico.rh                 GET /event/3/ [IP=156.0.233.50] [PID=25349] [UID=None]
+2018-05-14 14:23:36,729  INFO     4f562b93e4c44c75  indico.rh                 GET /event/3/ [IP=156.0.233.55] [PID=25349] [UID=None]
+2018-05-14 14:45:40,618  INFO     4620b774af75437f  indico.rh                 GET / [IP=74.82.47.3] [PID=25349] [UID=None]
+2018-05-14 18:48:24,789  INFO     423f0a64df3a4489  indico.rh                 GET / [IP=106.75.85.117] [PID=25349] [UID=None]
+2018-05-14 20:05:42,950  INFO     667ef7dd96e749ba  indico.rh                 GET / [IP=123.249.9.111] [PID=25349] [UID=None]
+2018-05-14 20:06:00,486  INFO     f63c0e712b9448dc  indico.rh                 GET /admin/settings/ [IP=123.249.9.111] [PID=25349] [UID=None]
+2018-05-14 20:06:01,404  INFO     78dd316854244a59  indico.rh                 GET /login/?next=%2Fadmin%2Fsettings%2F [IP=123.249.9.111] [PID=25349] [UID=None]
+2018-05-14 21:12:09,240  INFO     caef96fb9af54e4f  indico.rh                 GET / [IP=184.154.189.90] [PID=25349] [UID=None]
+2018-05-14 23:19:32,500  INFO     58f9933458ed41ee  indico.rh                 GET / [IP=139.162.78.135] [PID=25349] [UID=None]
+2018-05-15 04:00:00,177  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-PvvGhN/book_of_abstracts.tpl.tex
+2018-05-15 04:00:00,177  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-PvvGhN/output.log
+2018-05-15 04:00:00,177  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-XCOI0M/output.log
+2018-05-15 04:00:00,177  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-XCOI0M/single_doc.tpl.tex
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-jTBGvf/book_of_abstracts.tpl.tex
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-jTBGvf/output.log
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-tIipX3/book_of_abstracts.tpl.tex
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-tIipX3/output.log
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/book_of_abstracts.tpl.py
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/book_of_abstracts.tpl.pyc
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/contribution_list_boa.tpl.py
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/contribution_list_boa.tpl.pyc
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/abstract.tpl.py
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/abstract.tpl.pyc
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/document.tpl.py
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/document.tpl.pyc
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/first_page.tpl.py
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/first_page.tpl.pyc
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/person_list.tpl.py
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/person_list.tpl.pyc
+2018-05-15 04:00:00,178  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/toc_definitions.tpl.py
+2018-05-15 04:00:00,179  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/toc_definitions.tpl.pyc
+2018-05-15 04:00:00,179  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/single_doc.tpl.py
+2018-05-15 04:00:00,179  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/single_doc.tpl.pyc
+2018-05-15 06:33:20,759  INFO     648b6881d83449b3  indico.rh                 GET / [IP=209.126.136.7] [PID=25349] [UID=None]
+2018-05-15 08:58:08,025  INFO     4d67c44923114980  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 08:58:21,486  INFO     cb18a3f2c83443ea  indico.rh                 GET /category/0/manage/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 08:58:22,142  INFO     88ae92421f0b4389  indico.rh                 GET /category/0/info [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 08:58:23,007  INFO     fc04a687bcc14fb5  indico.rh                 GET /category/0/info [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-15 08:58:45,739  INFO     e8b75abd2b574eb5  indico.rh                 GET /user/1/preferences/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 08:58:50,075  INFO     5f042603854a44aa  indico.rh                 GET /user/1/api/ [IP=154.70.35.252] [PID=25346] [UID=1]
+2018-05-15 08:59:03,809  INFO     f9fcc01f0acb416d  indico.rh                 GET /user/1/accounts/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 08:59:12,484  INFO     1ed3e287560d4b4c  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 08:59:17,514  INFO     a85c0797f46d4b5a  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-15 08:59:18,861  INFO     d340563754b741cc  indico.rh                 GET /admin/version-check?_=1526374757703 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 08:59:19,953  INFO     295f0fde99244200  indico.rh                 GET /admin/version-check?_=1526374757703 [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-15 08:59:32,341  INFO     1b1b0cde833248af  indico.rh                 GET /admin/apps/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:00:20,878  INFO     969a90f7fc9d4b4f  indico.rh                 GET /admin/tasks/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:00:37,686  INFO     fa9aefd716324191  indico.rh                 GET /admin/rooms/locations/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:00:41,463  INFO     f4e7e5e532a34438  indico.rh                 POST /admin/rooms/locations/add [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:00:53,520  INFO     a1300d4c01bc4aaa  indico.rh                 GET / [IP=154.70.35.252] [PID=25344] [UID=1]
+2018-05-15 09:01:32,771  INFO     c2b466ce353f400b  indico.rh                 POST /user/api/create [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:01:33,689  INFO     13e43e4663c34346  indico.rh                 POST /api/build-urls [IP=154.70.35.252] [PID=25346] [UID=1]
+2018-05-15 09:02:55,655  INFO     14e488e6824f4a01  indico.rh                 POST /change-timezone [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:02:55,967  INFO     3737790ce7974327  indico.rh                 GET / [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-15 09:03:14,445  INFO     cd88b4a5a14d40f5  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:03:55,661  INFO     a399e435a1ac4a15  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:04:47,605  INFO     fd6369e5f8f54e39  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:04:49,761  INFO     b0489e18bf9842df  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-15 09:05:27,363  INFO     2992f9ab7e814190  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:05:30,788  INFO     e626d0a51c51475a  indico.rh                 GET /event/3/ [IP=154.70.35.252] [PID=25344] [UID=1]
+2018-05-15 09:05:38,561  INFO     5dd732dcb9f044fa  indico.rh                 GET /event/3/contributions/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:05:56,360  INFO     a687bc576215478f  indico.rh                 GET /event/3/contributions/3/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:07:42,341  INFO     43768284f69c4739  indico.rh                 GET / [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-15 09:08:39,281  INFO     a21a12fe67b54850  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-15 09:08:40,033  INFO     6943c268a594437c  indico.rh                 GET /admin/version-check?_=1526375319540 [IP=154.70.35.252] [PID=25348] [UID=1]
+2018-05-15 09:08:44,314  INFO     e8defc4115dc4ff2  indico.rh                 GET /admin/plugins/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:11:35,761  INFO     9439a9d16fe7440d  indico.rh                 GET /admin/api/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:13:02,942  INFO     a4e1324a2caa4fc1  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:13:03,617  INFO     b47341e3b9544469  indico.rh                 GET /admin/version-check?_=1526375583114 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:13:09,592  INFO     6fe6e5160270449f  indico.rh                 GET /admin/upcoming-events [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:14:09,749  INFO     28d881550b484873  indico.rh                 GET /admin/users/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:16:21,699  INFO     1735ac69b4cf4b78  indico.rh                 GET /admin/users/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:17:14,671  INFO     095cb21c6748466e  indico.rh                 GET /admin/api/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:17:29,266  INFO     54d9cdd86b384b0b  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:17:32,257  INFO     4f9d4ddfaa434daf  indico.rh                 GET /admin/settings/ [IP=154.70.35.252] [PID=25344] [UID=1]
+2018-05-15 09:17:33,030  INFO     ac42d386911041b0  indico.rh                 GET /admin/version-check?_=1526375852413 [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:21:42,728  INFO     d566219751be4ad2  indico.rh                 GET /admin/legal [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:21:54,181  INFO     c0e537b7e1a84583  indico.rh                 GET /admin/admins [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:22:47,547  INFO     1ddc7dfd431b40a5  indico.rh                 GET /admin/announcement [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:24:00,967  INFO     07131aa75036477a  indico.rh                 GET /admin/payment/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:24:09,885  INFO     6250c9ec6b504d5c  indico.rh                 GET /admin/networks/ [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 09:26:42,568  INFO     1d34093375764b85  indico.rh                 GET / [IP=154.70.35.252] [PID=25349] [UID=1]
+2018-05-15 14:37:08,455  INFO     02af2d6e0f2148e5  indico.rh                 GET / [IP=216.218.206.66] [PID=25349] [UID=None]
+2018-05-15 18:31:14,804  INFO     f39ad331653e429d  indico.rh                 GET / [IP=141.212.122.81] [PID=25349] [UID=None]
+2018-05-15 19:18:26,091  INFO     f642a8d19f424451  indico.rh                 GET / [IP=107.170.252.53] [PID=25349] [UID=None]
+2018-05-16 04:00:00,134  INFO     0000000000000000  indico                    Deleted from cache: assets_global_2209863190.js
+2018-05-16 04:00:00,134  INFO     0000000000000000  indico                    Deleted from cache: assets_i18n_en_GB_2450334794.js
+2018-05-16 04:00:00,143  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-feg8Ga/book_of_abstracts.tpl.tex
+2018-05-16 04:00:00,143  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-feg8Ga/output.log
+2018-05-16 04:00:00,143  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-g1vmRE/book_of_abstracts.tpl.tex
+2018-05-16 04:00:00,143  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-g1vmRE/output.log
+2018-05-16 04:00:00,143  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-vs56B3/book_of_abstracts.tpl.tex
+2018-05-16 04:00:00,143  INFO     0000000000000000  indico                    Deleted from temp: indico-texgen-vs56B3/output.log
+2018-05-16 04:00:00,143  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/contribution_condensed.tpl.py
+2018-05-16 04:00:00,143  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/opt/indico/.venv/local/lib/python2.7/site-packages/indico/legacy/webinterface/tpls/latex/inc/contribution_condensed.tpl.pyc
+2018-05-16 06:55:44,847  INFO     c97f5d24902f4174  indico.rh                 GET / [IP=107.170.229.67] [PID=25349] [UID=None]
+2018-05-16 07:12:37,145  INFO     2834bb70954343b1  indico.rh                 GET /event/3/overview [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-16 07:16:12,628  INFO     44260ca599e04e90  indico.rh                 GET / [IP=198.143.158.180] [PID=25349] [UID=None]
+2018-05-16 11:38:16,272  INFO     3831a8c97c2b47d0  indico.rh                 GET / [IP=125.64.94.208] [PID=25349] [UID=None]
+2018-05-16 12:57:53,479  INFO     0be7ba56bc934877  indico.rh                 GET / [IP=156.0.232.54] [PID=25349] [UID=1]
+2018-05-16 18:00:00,338  INFO     823b57cdda814af8  indico.rh                 GET / [IP=139.162.116.133] [PID=25349] [UID=None]
+2018-05-16 22:29:29,990  INFO     d6a9dd7b9f1d4ffe  indico.rh                 GET / [IP=212.129.50.159] [PID=25349] [UID=None]
+2018-05-16 22:48:57,812  INFO     83fd73ed3fbf4d57  indico.rh                 GET / [IP=13.250.14.101] [PID=25349] [UID=None]
+2018-05-17 04:00:00,093  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/CHBookingRepetition.tpl.py
+2018-05-17 04:00:00,093  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/CHBookingRepetition.tpl.pyc
+2018-05-17 04:00:00,093  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/RoomBookingAdmin.tpl.py
+2018-05-17 04:00:00,093  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/RoomBookingAdmin.tpl.pyc
+2018-05-17 07:25:28,309  INFO     2aab316d0d524cb0  indico.rh                 GET / [IP=71.6.202.205] [PID=25349] [UID=None]
+2018-05-17 09:12:49,018  INFO     8c382b3d09164d81  indico.rh                 GET / [IP=13.229.247.253] [PID=25349] [UID=None]
+2018-05-17 13:51:09,065  INFO     6326c0e351dc46a0  indico.rh                 GET / [IP=184.105.247.194] [PID=25349] [UID=None]
+2018-05-17 20:45:30,308  INFO     ca800564c6324ad7  indico.rh                 GET / [IP=139.162.78.135] [PID=25349] [UID=None]
+2018-05-17 20:56:41,137  INFO     512f389b0c6b44c9  indico.rh                 GET / [IP=178.73.215.171] [PID=25349] [UID=None]
+2018-05-17 21:36:45,684  INFO     80f3a621077e4b74  indico.rh                 GET / [IP=155.94.64.90] [PID=25349] [UID=None]
+2018-05-18 04:00:00,153  INFO     0000000000000000  indico                    Deleted from cache: assets_global_2209863190.js
+2018-05-18 04:00:00,153  INFO     0000000000000000  indico                    Deleted from cache: assets_i18n_en_GB_2450334794.js
+2018-05-18 08:33:46,320  INFO     b3c279aabb484d2c  indico.rh                 GET / [IP=139.162.113.204] [PID=25349] [UID=None]
+2018-05-18 08:42:00,974  INFO     ada16150eab746bd  indico.rh                 GET / [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-18 08:49:54,327  INFO     c75189d0b25742ae  indico.rh                 GET /login/ [IP=156.0.233.51] [PID=25349] [UID=None]
+2018-05-18 14:57:18,393  INFO     1b5bddb4e5e641c1  indico.rh                 GET / [IP=184.105.247.194] [PID=25349] [UID=None]
+2018-05-18 19:15:06,661  INFO     305676167bab4d98  indico.rh                 GET / [IP=198.143.155.142] [PID=25349] [UID=None]
+2018-05-18 19:57:43,954  INFO     6eed2679f4cd474b  indico.rh                 GET / [IP=117.50.7.159] [PID=25349] [UID=None]
+2018-05-18 19:57:45,166  INFO     128e7216359543ab  indico.rh                 GET / [IP=106.75.85.103] [PID=25349] [UID=None]
+2018-05-19 15:58:20,287  INFO     933aa0db6d454781  indico.rh                 GET / [IP=184.105.139.67] [PID=25349] [UID=None]
+2018-05-19 19:05:57,682  INFO     026025c7f47a4381  indico.rh                 GET / [IP=107.170.247.162] [PID=25349] [UID=None]
+2018-05-20 03:09:00,510  INFO     4f3828e641ea42dc  indico.rh                 GET / [IP=155.94.64.90] [PID=25349] [UID=None]
+2018-05-20 03:29:24,190  INFO     ddafafdfcda6487a  indico.rh                 GET / [IP=23.239.65.122] [PID=25349] [UID=None]
+2018-05-20 04:00:00,074  INFO     0000000000000000  indico                    Deleted from cache: assets_global_2209863190.js
+2018-05-20 04:00:00,075  INFO     0000000000000000  indico                    Deleted from cache: assets_i18n_en_GB_2450334794.js
+2018-05-20 04:51:21,304  INFO     249b3eae5b8f4646  indico.rh                 GET / [IP=139.162.116.133] [PID=25349] [UID=None]
+2018-05-20 15:07:27,515  INFO     6292b430366f4017  indico.rh                 GET / [IP=74.82.47.5] [PID=25349] [UID=None]
+2018-05-21 02:55:34,428  INFO     a69c330a9313457b  indico.rh                 GET / [IP=107.170.231.45] [PID=25349] [UID=None]
+2018-05-21 03:30:00,174  INFO     0000000000000000  indico.events.static      Removing 0 expired static sites from the past 30 days
+2018-05-21 13:11:25,402  INFO     fd0d5a7e284e4784  indico.rh                 GET / [IP=139.162.116.133] [PID=25349] [UID=None]
+2018-05-21 13:20:33,031  INFO     e345ac02bf604c54  indico.rh                 GET / [IP=216.218.206.68] [PID=25349] [UID=None]
+2018-05-21 18:31:27,691  INFO     2c811984edde40af  indico.rh                 GET / [IP=14.134.3.4] [PID=25349] [UID=None]
+2018-05-21 18:32:15,572  INFO     90344228f56a4f0d  indico.rh                 GET / [IP=14.134.18.222] [PID=25349] [UID=None]
+2018-05-21 18:32:19,922  INFO     528d88a73c68454f  indico.rh                 GET / [IP=14.134.19.1] [PID=25349] [UID=None]
+2018-05-21 23:30:27,584  INFO     28070e9cb6484ea4  indico.rh                 GET / [IP=139.162.78.135] [PID=25349] [UID=None]
+2018-05-22 02:30:02,004  INFO     5b86dbefd06c4ad9  indico.rh                 GET / [IP=23.239.65.138] [PID=25349] [UID=None]
+2018-05-22 05:20:49,884  INFO     6742e5a4c25d4739  indico.rh                 GET / [IP=139.162.78.135] [PID=25349] [UID=None]
+2018-05-22 05:56:57,935  INFO     9705fa76c26046aa  indico.rh                 GET / [IP=34.214.209.116] [PID=25349] [UID=None]
+2018-05-22 07:44:54,278  INFO     9930934b25fe4470  indico.rh                 GET / [IP=60.191.20.210] [PID=25349] [UID=None]
+2018-05-22 14:29:01,938  INFO     def3fda1bacd493d  indico.rh                 GET / [IP=184.105.247.195] [PID=25349] [UID=None]
+2018-05-23 02:05:00,299  INFO     5fc1ce9d75ee41c3  indico.rh                 GET / [IP=209.126.136.7] [PID=25349] [UID=None]
+2018-05-23 02:24:42,215  INFO     6503eb06d843430e  indico.rh                 GET / [IP=178.73.215.171] [PID=25349] [UID=None]
+2018-05-23 06:23:33,042  INFO     e791d02a76544659  indico.rh                 GET / [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:23:47,690  INFO     cab6e2121d2c4ee4  indico.rh                 GET /login/ [IP=156.0.232.20] [PID=25346] [UID=None]
+2018-05-23 06:24:00,660  INFO     f7aedb3a7a84455e  indico.rh                 POST /login/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:24:00,671  WARNING  f7aedb3a7a84455e  indico.auth               Invalid credentials (ip=156.0.232.20, provider=indico): No such user
+2018-05-23 06:24:16,390  INFO     33c3f555c5d540e4  indico.rh                 POST /login/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:24:16,403  WARNING  33c3f555c5d540e4  indico.auth               Invalid credentials (ip=156.0.232.20, provider=indico): No such user
+2018-05-23 06:25:14,160  INFO     bb4bb26fc3564bc3  indico.rh                 POST /login/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:25:14,170  WARNING  bb4bb26fc3564bc3  indico.auth               Invalid credentials (ip=156.0.232.20, provider=indico): No such user
+2018-05-23 06:26:10,537  INFO     5649e43fc27b4dd9  indico.rh                 POST /login/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:26:10,555  WARNING  5649e43fc27b4dd9  indico.auth               Invalid credentials (ip=156.0.232.20, provider=indico): No such user
+2018-05-23 06:26:33,252  INFO     6ba84ca560684757  indico.rh                 POST /login/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:26:33,270  WARNING  6ba84ca560684757  indico.auth               Invalid credentials (ip=156.0.232.20, provider=indico): No such user
+2018-05-23 06:26:46,920  INFO     7cab5c7b26cd4a3a  indico.rh                 GET /register/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:27:30,319  INFO     09d41cececce4427  indico.rh                 POST /register/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:28:04,747  INFO     55e3c04cf4974ddf  indico.rh                 POST /register/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:28:05,003  INFO     ee817ed66cba4606  indico.rh                 GET /register/ [IP=156.0.232.20] [PID=25348] [UID=None]
+2018-05-23 06:28:05,503  INFO     0000000000000000  indico.emails             Sent email "[Indico] Verify your email"
+2018-05-23 06:29:10,361  INFO     225b8184a7a3412a  indico.rh                 GET /register/?token=InNhcmFoLndhaXRoaXJhQHN0cmF0aG1vcmUuZWR1Ig.DeabdA.fS519SK65L4QBIwyXyS8sPBRFgE [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:29:10,607  INFO     53a36eb15366477a  indico.rh                 GET /register/ [IP=156.0.232.20] [PID=25348] [UID=None]
+2018-05-23 06:29:23,046  INFO     70b96871d4b74679  indico.rh                 GET /register/ [IP=156.0.232.20] [PID=25348] [UID=None]
+2018-05-23 06:29:28,804  INFO     e41d1d66a6754323  indico.rh                 GET / [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:29:36,022  INFO     d7ec7c9baacc43e6  indico.rh                 GET / [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:29:58,576  INFO     04fd380f0e9640d8  indico.rh                 GET / [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:30:11,025  INFO     b8caeae6326c4047  indico.rh                 GET /login/ [IP=156.0.232.20] [PID=25348] [UID=None]
+2018-05-23 06:30:26,903  INFO     89f5634f08c94508  indico.rh                 GET /register/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:31:36,530  INFO     b0f203effa2b4f47  indico.rh                 POST /register/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:31:37,190  INFO     2419b738e0e24340  indico.rh                 GET / [IP=156.0.232.20] [PID=25348] [UID=6]
+2018-05-23 06:32:01,203  INFO     85eb991659d643c5  indico.rh                 GET /event/3/ [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:32:27,728  INFO     a2f06298a77c4df3  indico.rh                 GET /event/3/manage/ [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:32:33,832  INFO     4635862c9b8b48d8  indico.rh                 GET / [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:32:44,131  INFO     6d32907bfd6e473c  indico.rh                 GET /event/3/ [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:32:49,532  INFO     0cb0b70b293d4c94  indico.rh                 GET / [IP=105.165.140.108] [PID=25349] [UID=None]
+2018-05-23 06:32:58,394  INFO     d09f6ef492bc4d0b  indico.rh                 GET /event/3/abstracts/ [IP=156.0.232.20] [PID=25344] [UID=6]
+2018-05-23 06:33:06,235  INFO     ace1a4d5c0b44a26  indico.rh                 GET /event/3/abstracts/submit?_=1527057161050 [IP=156.0.232.20] [PID=25346] [UID=6]
+2018-05-23 06:33:10,727  INFO     04d718c37ee84247  indico.rh                 GET /login/ [IP=105.165.140.108] [PID=25349] [UID=None]
+2018-05-23 06:33:42,902  INFO     4b03ee04cf3447c0  indico.rh                 POST /login/ [IP=105.165.140.108] [PID=25349] [UID=None]
+2018-05-23 06:33:43,289  INFO     4b03ee04cf3447c0  indico.auth               Received identity info: <IdentityInfo(<IndicoIdentityProvider(indico)>, sarahmwangi, None)>
+2018-05-23 06:33:43,297  INFO     4b03ee04cf3447c0  indico.auth               Found existing identity <Identity(1, 1, indico, sarahmwangi)> for user <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi">
+2018-05-23 06:33:43,718  INFO     1e83cc3be1b24278  indico.rh                 GET / [IP=105.165.140.108] [PID=25349] [UID=1]
+2018-05-23 06:34:51,328  INFO     34db6f0c10aa47ab  indico.rh                 GET /login/ [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:34:51,581  INFO     7ac596586e854200  indico.rh                 GET / [IP=156.0.232.20] [PID=25348] [UID=6]
+2018-05-23 06:34:58,947  INFO     48d7cc431f1f40df  indico.rh                 GET /logout/?next=%2F [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:34:59,189  INFO     e170658bfefc4569  indico.rh                 GET / [IP=156.0.232.20] [PID=25348] [UID=None]
+2018-05-23 06:35:05,309  INFO     6fd6515e3d6941f3  indico.rh                 GET /login/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:35:29,267  INFO     9f7ef67089c54274  indico.rh                 POST /login/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:35:29,279  WARNING  9f7ef67089c54274  indico.auth               Invalid credentials (ip=156.0.232.20, provider=indico): No such user
+2018-05-23 06:35:30,779  INFO     693b736df9934d9c  indico.rh                 GET /admin/settings/ [IP=105.165.140.108] [PID=25344] [UID=1]
+2018-05-23 06:35:32,860  INFO     118e599db3a24902  indico.rh                 GET /admin/version-check?_=1527057331414 [IP=105.165.140.108] [PID=25349] [UID=1]
+2018-05-23 06:35:33,940  INFO     178ca3a1c84644f7  indico.rh                 GET /admin/version-check?_=1527057331414 [IP=105.165.140.108] [PID=25346] [UID=1]
+2018-05-23 06:35:51,339  INFO     d2accfc4fdc1442b  indico.rh                 GET /admin/admins [IP=105.165.140.108] [PID=25349] [UID=1]
+2018-05-23 06:36:07,300  INFO     6c44e48803674ea0  indico.rpc                json rpc request. request: {u'origin': u'https://104.154.243.7/admin/admins', u'params': {u'organisation': u'', u'surName': u'Mwangi', u'name': u'', u'exactMatch': False, u'email': u''}, u'method': u'search.users'}
+2018-05-23 06:36:22,739  INFO     8154b695b2d5414f  indico.rh                 POST /admin/admins [IP=105.165.140.108] [PID=25349] [UID=1]
+2018-05-23 06:36:22,762  WARNING  8154b695b2d5414f  indico.users              Admin rights granted to <User(6, sarah.waithira@strathmore.edu): "Sarah Mwangi"> by <User(1, biz.sarahmwangi@gmail.com): "Sarah Mwangi"> [105.165.140.108]
+2018-05-23 06:36:23,131  INFO     a0100c3d0eaa41aa  indico.rh                 GET /admin/admins [IP=105.165.140.108] [PID=25348] [UID=1]
+2018-05-23 06:37:20,307  INFO     cae3b86ceb5841d0  indico.rh                 GET /event/3/abstracts/ [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:37:28,884  INFO     46907d0df731467a  indico.rh                 GET /login/?next=%2Fevent%2F3%2Fabstracts%2F [IP=156.0.232.20] [PID=25348] [UID=None]
+2018-05-23 06:37:46,137  INFO     e24f1cc01ead4fd6  indico.rh                 POST /login/?next=%2Fevent%2F3%2Fabstracts%2F [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:37:46,146  WARNING  e24f1cc01ead4fd6  indico.auth               Invalid credentials (ip=156.0.232.20, provider=indico): No such user
+2018-05-23 06:38:14,467  INFO     25630eae32184712  indico.rh                 POST /login/?next=%2Fevent%2F3%2Fabstracts%2F [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 06:38:14,831  INFO     25630eae32184712  indico.auth               Received identity info: <IdentityInfo(<IndicoIdentityProvider(indico)>, sarah_mwangi, None)>
+2018-05-23 06:38:14,838  INFO     25630eae32184712  indico.auth               Found existing identity <Identity(5, 6, indico, sarah_mwangi)> for user <User(6, sarah.waithira@strathmore.edu): "Sarah Mwangi">
+2018-05-23 06:38:15,103  INFO     2a1ccc22d5d14392  indico.rh                 GET /event/3/abstracts/ [IP=156.0.232.20] [PID=25348] [UID=6]
+2018-05-23 06:38:24,728  INFO     cca363c2f29f4673  indico.rh                 GET /admin/admins [IP=105.165.140.108] [PID=25349] [UID=1]
+2018-05-23 06:38:25,093  INFO     788940c7ac924f82  indico.rh                 GET /event/3/manage/ [IP=156.0.232.20] [PID=25348] [UID=6]
+2018-05-23 06:38:37,491  INFO     a3b7acb321054e96  indico.rh                 GET /event/3/manage/abstracts/ [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:39:01,522  INFO     f8a08db94237451a  indico.rh                 GET /event/3/manage/abstracts/teams?_=1527057499850 [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:39:35,569  INFO     d908136a3aef44c6  indico.rh                 GET /event/3/manage/abstracts/list/ [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:39:56,952  INFO     f24e9e632fd34e06  indico.rh                 GET /event/3/manage/abstracts/3/ [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:40:35,763  INFO     d633bfc04600433a  indico.rh                 GET /event/3/manage/papers/ [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:40:48,861  INFO     67934eee82c24615  indico.rh                 GET /event/3/manage/rooms/ [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:40:49,131  INFO     ec85db0d7aa74bd5  indico.rh                 GET /event/3/manage/rooms/choose-event [IP=156.0.232.20] [PID=25348] [UID=6]
+2018-05-23 06:41:22,451  INFO     53d51f43dd7b434a  indico.rh                 GET /event/3/manage/abstracts/ [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:45:31,870  INFO     d8f5c1b7fb7841c5  indico.rh                 GET /logout/?next=%2Fevent%2F3%2Fmanage%2Fabstracts%2F [IP=156.0.232.20] [PID=25349] [UID=6]
+2018-05-23 06:45:32,114  INFO     a93f04ae29664bf2  indico.rh                 GET /event/3/manage/abstracts/ [IP=156.0.232.20] [PID=25348] [UID=None]
+2018-05-23 06:45:32,363  INFO     cfcee2eb78894d86  indico.rh                 GET /login/?next=%2Fevent%2F3%2Fmanage%2Fabstracts%2F [IP=156.0.232.20] [PID=25349] [UID=None]
+2018-05-23 13:08:29,603  INFO     3af91c881a944d18  indico.rh                 GET / [IP=184.105.247.196] [PID=25349] [UID=None]
+2018-05-23 15:18:55,020  INFO     c9e6333f22ca40cc  indico.rh                 GET / [IP=141.212.122.16] [PID=25349] [UID=None]
+2018-05-23 19:12:00,013  INFO     5998ef2e22184e6e  indico.rh                 GET / [IP=107.170.228.130] [PID=25349] [UID=None]
+2018-05-23 23:45:13,989  INFO     85eca06fa5a6422f  indico.rh                 GET / [IP=139.162.113.204] [PID=25349] [UID=None]
+2018-05-24 13:36:27,878  INFO     093cc313b9904af2  indico.rh                 GET / [IP=184.105.139.69] [PID=25349] [UID=None]
+2018-05-24 21:14:07,248  INFO     975ce09b88d6406b  indico.rh                 GET / [IP=107.170.227.136] [PID=25349] [UID=None]
+2018-05-24 22:32:21,237  INFO     6637b04d71a44151  indico.rh                 GET / [IP=54.224.115.50] [PID=25349] [UID=None]
+2018-05-25 04:00:00,148  INFO     0000000000000000  indico                    Deleted from cache: assets_global_2209863190.js
+2018-05-25 04:00:00,149  INFO     0000000000000000  indico                    Deleted from cache: assets_i18n_en_GB_2450334794.js
+2018-05-25 04:00:00,150  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/RoomBookingEventChooseEvent.tpl.py
+2018-05-25 04:00:00,150  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/RoomBookingEventChooseEvent.tpl.pyc
+2018-05-25 04:00:00,150  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/TabControl.tpl.py
+2018-05-25 04:00:00,150  INFO     0000000000000000  indico                    Deleted from temp: mako_modules/2.0.3/TabControl.tpl.pyc
+2018-05-25 15:13:07,232  INFO     3b075dd36d144726  indico.rh                 GET / [IP=74.82.47.2] [PID=25349] [UID=None]
+2018-05-26 04:08:04,052  INFO     4f1130e937934fca  indico.rh                 GET / [IP=139.162.78.135] [PID=25349] [UID=None]
+2018-05-26 05:38:42,396  INFO     897a248193ea40ce  indico.rh                 GET / [IP=139.162.116.133] [PID=25349] [UID=None]
+2018-05-26 12:11:29,866  INFO     c1c6549c80fd4653  indico.rh                 GET / [IP=117.50.7.159] [PID=25349] [UID=None]
+2018-05-26 14:09:53,849  INFO     f269a29bbbb74da6  indico.rh                 GET / [IP=184.105.247.195] [PID=25349] [UID=None]
+2018-05-27 03:45:08,996  INFO     6a9731d7d3aa4ee7  indico.rh                 GET / [IP=66.240.236.119] [PID=25349] [UID=None]
+2018-05-27 03:55:11,034  INFO     1806ccb7bd25485c  indico.rh                 GET / [IP=139.162.116.133] [PID=25349] [UID=None]
+2018-05-27 13:37:20,701  INFO     0d98b1abb17d42bd  indico.rh                 GET / [IP=74.82.47.4] [PID=25349] [UID=None]
+2018-05-27 19:31:31,850  INFO     e9efa76f85bb45e8  indico.rh                 GET / [IP=192.241.218.203] [PID=25349] [UID=None]
+2018-05-28 03:30:00,144  INFO     0000000000000000  indico.events.static      Removing 0 expired static sites from the past 30 days
+2018-05-28 07:08:35,735  INFO     69cdd35a4e63425f  indico.rh                 GET / [IP=107.170.226.88] [PID=25349] [UID=None]
+2018-05-28 08:06:32,252  INFO     76eb12e401fe4312  indico.rh                 GET / [IP=139.162.78.135] [PID=25349] [UID=None]
+2018-05-28 13:04:47,110  INFO     7610d3a3757143cd  indico.rh                 GET / [IP=74.82.47.3] [PID=25349] [UID=None]
+2018-05-29 04:59:53,337  INFO     f5ec229009064894  indico.rh                 GET / [IP=139.162.116.133] [PID=25349] [UID=None]
+2018-05-29 05:04:48,023  INFO     4caf52b3d1834867  indico.rh                 GET / [IP=209.126.136.7] [PID=25349] [UID=None]
+2018-05-29 07:53:41,195  INFO     d1c4ddfcd0dd47f7  indico.rh                 GET / [IP=141.212.122.112] [PID=25349] [UID=None]
+2018-05-29 13:39:03,776  INFO     4ac89c98628643c2  indico.rh                 GET / [IP=184.105.247.196] [PID=25349] [UID=None]
+2018-05-29 20:30:47,538  INFO     1c0ec6902501428a  indico.rh                 GET / [IP=178.73.215.171] [PID=25349] [UID=None]
+2018-05-30 15:21:59,022  INFO     49ed58cc54684a1b  indico.rh                 GET / [IP=74.82.47.3] [PID=25349] [UID=None]
+2018-05-30 19:31:49,755  INFO     f0d74b0c1e0548a3  indico.rh                 GET / [IP=46.17.47.54] [PID=25349] [UID=None]
+2018-05-31 11:44:21,636  INFO     a63021f38abc4b72  indico.rh                 GET / [IP=218.211.168.176] [PID=25349] [UID=None]
+2018-05-31 14:27:45,430  INFO     ed2e5715dc294ea9  indico.rh                 GET / [IP=139.162.113.204] [PID=25349] [UID=None]
+2018-05-31 16:09:36,774  INFO     1e08ec846ab34460  indico.rh                 GET / [IP=184.105.139.68] [PID=25349] [UID=None]
+2018-05-31 19:47:00,550  INFO     20d69395540840d5  indico.rh                 GET / [IP=107.170.231.24] [PID=25349] [UID=None]
+2018-06-01 02:31:05,899  INFO     1160159b352e48fb  indico.rh                 GET / [IP=80.82.77.139] [PID=25349] [UID=None]
+2018-06-01 02:44:35,895  INFO     cb9d05fc5c154e46  indico.rh                 GET / [IP=139.162.78.135] [PID=25349] [UID=None]
+2018-06-01 06:26:29,479  INFO     e17d102b902c407c  indico.rh                 GET / [IP=107.170.229.77] [PID=25349] [UID=None]
+2018-06-01 10:08:25,450  INFO     4990d239755543e1  indico.rh                 GET / [IP=46.29.161.74] [PID=25349] [UID=None]
+2018-06-01 14:14:41,159  INFO     aaf1cc6f742b4b9b  indico.rh                 GET / [IP=74.82.47.4] [PID=25349] [UID=None]
+2018-06-01 14:30:48,245  INFO     131efd00618f4db6  indico.rh                 GET / [IP=185.10.68.139] [PID=25349] [UID=None]
+2018-06-01 20:55:44,847  INFO     60e2817d568f4932  indico.rh                 GET / [IP=171.43.144.195] [PID=25349] [UID=None]
+2018-06-01 20:56:15,484  INFO     7ce82f4da62745c5  indico.rh                 GET / [IP=123.245.89.71] [PID=25349] [UID=None]
+2018-06-02 05:21:53,336  INFO     f6e87365d17b4381  indico.rh                 GET / [IP=139.162.113.204] [PID=25349] [UID=None]
+2018-06-02 06:25:37,677  INFO     e6b69d05b7994989  indico.rh                 GET / [IP=41.90.51.54] [PID=25349] [UID=1]
+2018-06-02 13:36:55,907  INFO     f22aa70fa956430f  indico.rh                 GET / [IP=216.218.206.66] [PID=25349] [UID=None]
+2018-06-02 13:39:00,326  INFO     2d40585502244012  indico.rh                 GET / [IP=41.90.51.54] [PID=25349] [UID=1]
